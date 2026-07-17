@@ -1,0 +1,2402 @@
+{
+  "comp_su7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 45970.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 710.0,
+        "官网尾款（36）": 21145.0,
+        "贴息成本-分期（36个月）": 5063.0,
+        "租赁租金-36个月/20kkm": 536.0,
+        "贴息成本-租赁": 10869.0,
+        "Leasing factor": 1.17
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 45970.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 710.0,
+        "官网尾款（36）": 21145.0,
+        "贴息成本-分期（36个月）": 5022.0,
+        "租赁租金-36个月/20kkm": 536.0,
+        "贴息成本-租赁": 10828.0,
+        "Leasing factor": 1.17
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 45970.0,
+          "previous": 45970.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 710.0,
+          "previous": 710.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 21145.0,
+          "previous": 21145.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5063.0,
+          "previous": 5022.0,
+          "change": 41.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 536.0,
+          "previous": 536.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 10869.0,
+          "previous": 10828.0,
+          "change": 41.0
+        },
+        "Leasing factor": {
+          "current": 1.17,
+          "previous": 1.17,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 45970.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 710.0,
+        "官网尾款（36）": 21145.0,
+        "贴息成本-分期（36个月）": 5063.0,
+        "租赁租金-36个月/20kkm": 536.0,
+        "贴息成本-租赁": 10869.0,
+        "Leasing factor": 1.17
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 45970.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 710.0,
+        "官网尾款（36）": 21145.0,
+        "贴息成本-分期（36个月）": 5022.0,
+        "租赁租金-36个月/20kkm": 536.0,
+        "贴息成本-租赁": 10828.0,
+        "Leasing factor": 1.17
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 45970.0,
+          "previous": 45970.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 710.0,
+          "previous": 710.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 21145.0,
+          "previous": 21145.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5063.0,
+          "previous": 5022.0,
+          "change": 41.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 536.0,
+          "previous": 536.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 10869.0,
+          "previous": 10828.0,
+          "change": 41.0
+        },
+        "Leasing factor": {
+          "current": 1.17,
+          "previous": 1.17,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "奔驰",
+      "model": "CLA",
+      "version": "250+ mit EQ Technologie Edition",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 65766.84,
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1053.0,
+        "官网尾款（36）": 33783.39,
+        "贴息成本-分期（36个月）": 5998.0,
+        "租赁租金-36个月/20kkm": 992.32,
+        "贴息成本-租赁": 8038.0,
+        "Leasing factor": 1.51
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 65766.84,
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1157.0,
+        "官网尾款（36）": 31429.63,
+        "贴息成本-分期（36个月）": 2502.0,
+        "租赁租金-36个月/20kkm": 978.12,
+        "贴息成本-租赁": 8471.0,
+        "Leasing factor": 1.49
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 65766.84,
+          "previous": 65766.84,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 3.99,
+          "previous": 3.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1053.0,
+          "previous": 1157.0,
+          "change": -104.0
+        },
+        "官网尾款（36）": {
+          "current": 33783.39,
+          "previous": 31429.63,
+          "change": 2353.76
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5998.0,
+          "previous": 2502.0,
+          "change": 3496.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 992.32,
+          "previous": 978.12,
+          "change": 14.2
+        },
+        "贴息成本-租赁": {
+          "current": 8038.0,
+          "previous": 8471.0,
+          "change": -433.0
+        },
+        "Leasing factor": {
+          "current": 1.51,
+          "previous": 1.49,
+          "change": 0.02
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "CLA",
+      "version": "250+ mit EQ Technologie Edition",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 65766.84,
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1053.0,
+        "官网尾款（36）": 33783.39,
+        "贴息成本-分期（36个月）": 5998.0,
+        "租赁租金-36个月/20kkm": 992.32,
+        "贴息成本-租赁": 8038.0,
+        "Leasing factor": 1.51
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 65766.84,
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1157.0,
+        "官网尾款（36）": 31429.63,
+        "贴息成本-分期（36个月）": 2502.0,
+        "租赁租金-36个月/20kkm": 978.12,
+        "贴息成本-租赁": 8471.0,
+        "Leasing factor": 1.49
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 65766.84,
+          "previous": 65766.84,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 3.99,
+          "previous": 3.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1053.0,
+          "previous": 1157.0,
+          "change": -104.0
+        },
+        "官网尾款（36）": {
+          "current": 33783.39,
+          "previous": 31429.63,
+          "change": 2353.76
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5998.0,
+          "previous": 2502.0,
+          "change": 3496.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 992.32,
+          "previous": 978.12,
+          "change": 14.2
+        },
+        "贴息成本-租赁": {
+          "current": 8038.0,
+          "previous": 8471.0,
+          "change": -433.0
+        },
+        "Leasing factor": {
+          "current": 1.51,
+          "previous": 1.49,
+          "change": 0.02
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "大众",
+      "model": "ID.7",
+      "version": "Pro S",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 59495.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 946.0,
+        "官网尾款（36）_text": "28067 (37)",
+        "贴息成本-分期（36个月）": 6133.0,
+        "租赁租金-36个月/20kkm": 772.0,
+        "贴息成本-租赁": 11939.0,
+        "Leasing factor": 0.013
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 59495.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 946.0,
+        "官网尾款（36）": 28067.0,
+        "贴息成本-分期（36个月）": 1215.0,
+        "租赁租金-36个月/20kkm": 772.0,
+        "贴息成本-租赁": 7021.0,
+        "Leasing factor": 0.013,
+        "补贴政策时效_text": "Purchase Bonus直至6/30日有效"
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 59495.0,
+          "previous": 59495.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 946.0,
+          "previous": 946.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 6133.0,
+          "previous": 1215.0,
+          "change": 4918.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 772.0,
+          "previous": 772.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 11939.0,
+          "previous": 7021.0,
+          "change": 4918.0
+        },
+        "Leasing factor": {
+          "current": 0.013,
+          "previous": 0.013,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "大众",
+      "model": "ID.7",
+      "version": "GTX",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 63835.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 999.0,
+        "官网尾款（36）": 30705.0,
+        "贴息成本-分期（36个月）": 5638.0,
+        "租赁租金-36个月/20kkm": 828.0,
+        "贴息成本-租赁": 11343.0,
+        "Leasing factor": 0.013
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 63835.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 999.0,
+        "官网尾款（36）": 30705.0,
+        "贴息成本-分期（36个月）": 760.0,
+        "租赁租金-36个月/20kkm": 828.0,
+        "贴息成本-租赁": 6466.0,
+        "Leasing factor": 0.013,
+        "补贴政策时效_text": "Purchase Bonus直至6/30日有效"
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 63835.0,
+          "previous": 63835.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 999.0,
+          "previous": 999.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 30705.0,
+          "previous": 30705.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5638.0,
+          "previous": 760.0,
+          "change": 4878.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 828.0,
+          "previous": 828.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 11343.0,
+          "previous": 6466.0,
+          "change": 4877.0
+        },
+        "Leasing factor": {
+          "current": 0.013,
+          "previous": 0.013,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "i4",
+      "version": "eDrive40 Gran Coupe",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 61300.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 971.0,
+        "官网尾款（36）": 30037.0,
+        "贴息成本-分期（36个月）": 4241.0,
+        "租赁租金-36个月/20kkm": 1107.63,
+        "贴息成本-租赁": 6375.0,
+        "Leasing factor": 0.0181
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 61300.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 971.0,
+        "官网尾款（36）": 30037.0,
+        "贴息成本-分期（36个月）": 10852.0,
+        "租赁租金-36个月/20kkm": 1107.63,
+        "贴息成本-租赁": 6293.0,
+        "Leasing factor": 0.0181
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 61300.0,
+          "previous": 61300.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 971.0,
+          "previous": 971.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 30037.0,
+          "previous": 30037.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 4241.0,
+          "previous": 10852.0,
+          "change": -6611.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1107.63,
+          "previous": 1107.63,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 6375.0,
+          "previous": 6293.0,
+          "change": 82.0
+        },
+        "Leasing factor": {
+          "current": 0.0181,
+          "previous": 0.0181,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "i4",
+      "version": "M60 Gran Coupe xDrive",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 73700.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 1167.0,
+        "官网尾款（36）": 36113.0,
+        "贴息成本-分期（36个月）": 5031.0,
+        "租赁租金-36个月/20kkm": 1332.0,
+        "贴息成本-租赁": -475.0,
+        "Leasing factor": 0.0181
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 73700.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 1167.0,
+        "官网尾款（36）": 36113.0,
+        "贴息成本-分期（36个月）": 4949.0,
+        "租赁租金-36个月/20kkm": 1332.0,
+        "贴息成本-租赁": -546.0,
+        "Leasing factor": 0.0181
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 73700.0,
+          "previous": 73700.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1167.0,
+          "previous": 1167.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 36113.0,
+          "previous": 36113.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5031.0,
+          "previous": 4949.0,
+          "change": 82.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1332.0,
+          "previous": 1332.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": -475.0,
+          "previous": -546.0,
+          "change": 71.0
+        },
+        "Leasing factor": {
+          "current": 0.0181,
+          "previous": 0.0181,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "SEAL",
+      "version": "Design",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 49990.0,
+        "Leasing factor": 0.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 49990.0,
+        "Leasing factor": 0.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 49990.0,
+          "previous": 49990.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "SEAL",
+      "version": "Excellence",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 53990.0,
+        "Leasing factor": 0.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 53990.0,
+        "Leasing factor": 0.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 53990.0,
+          "previous": 53990.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "现代",
+      "model": "IONIQ 6",
+      "version": "77,4 kWh Uniq",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 45550.0,
+        "Leasing factor": 0.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 45550.0,
+        "Leasing factor": 0.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 45550.0,
+          "previous": 45550.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "马自达",
+      "model": "6e EV",
+      "version": "EV Long Range Takumi Plus",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 48500.0,
+        "对客定价": 4.85,
+        "分期月供-36个月/20kkm": 629.0,
+        "官网尾款（36）": 20903.0,
+        "贴息成本-分期（36个月）": 8864.0,
+        "租赁租金-36个月/20kkm": 536.8,
+        "贴息成本-租赁": 11941.0,
+        "Leasing factor": 0.0111
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 48500.0,
+        "对客定价": 4.84,
+        "分期月供-36个月/20kkm": 683.0,
+        "官网尾款（36）": 21825.0,
+        "贴息成本-分期（36个月）": 7062.0,
+        "租赁租金-36个月/20kkm": 539.33,
+        "贴息成本-租赁": 11856.0,
+        "Leasing factor": 0.0111
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 48500.0,
+          "previous": 48500.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.85,
+          "previous": 4.84,
+          "change": 0.01
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 629.0,
+          "previous": 683.0,
+          "change": -54.0
+        },
+        "官网尾款（36）": {
+          "current": 20903.0,
+          "previous": 21825.0,
+          "change": -922.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 8864.0,
+          "previous": 7062.0,
+          "change": 1802.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 536.8,
+          "previous": 539.33,
+          "change": -2.53
+        },
+        "贴息成本-租赁": {
+          "current": 11941.0,
+          "previous": 11856.0,
+          "change": 85.0
+        },
+        "Leasing factor": {
+          "current": 0.0111,
+          "previous": 0.0111,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "极氪",
+      "model": "001",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 59990.0,
+        "租赁租金-36个月/20kkm": 799.0,
+        "贴息成本-租赁": 11656.0,
+        "Leasing factor": 0.0133
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 59990.0,
+        "租赁租金-36个月/20kkm": 799.0,
+        "贴息成本-租赁": 11615.0,
+        "Leasing factor": 0.0133
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 59990.0,
+          "previous": 59990.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 799.0,
+          "previous": 799.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 11656.0,
+          "previous": 11615.0,
+          "change": 41.0
+        },
+        "Leasing factor": {
+          "current": 0.0133,
+          "previous": 0.0133,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "极氪",
+      "model": "001",
+      "version": "AWD Performance",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 65990.0,
+        "租赁租金-36个月/20kkm": 861.0,
+        "贴息成本-租赁": 12438.0,
+        "Leasing factor": 0.013
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 65990.0,
+        "租赁租金-36个月/20kkm": 861.0,
+        "贴息成本-租赁": 12479.0,
+        "Leasing factor": 0.013
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 65990.0,
+          "previous": 65990.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 861.0,
+          "previous": 861.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 12438.0,
+          "previous": 12479.0,
+          "change": -41.0
+        },
+        "Leasing factor": {
+          "current": 0.013,
+          "previous": 0.013,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    }
+  ],
+  "comp_yu7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model Y",
+      "version": "LongRange AWD",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 54970.0,
+        "对客定价": 2.01,
+        "分期月供-36个月/20kkm": 915.0,
+        "官网尾款（36）": 25375.0,
+        "贴息成本-分期（36个月）": 3706.0,
+        "租赁租金-36个月/20kkm": 761.0,
+        "贴息成本-租赁": 8844.0,
+        "Leasing factor": 1.38
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 54970.0,
+        "对客定价": 2.01,
+        "分期月供-36个月/20kkm": 915.0,
+        "官网尾款（36）": 25375.0,
+        "贴息成本-分期（36个月）": 4033.0,
+        "租赁租金-36个月/20kkm": 761.0,
+        "贴息成本-租赁": 9171.0,
+        "Leasing factor": 1.38
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 54970.0,
+          "previous": 54970.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 2.01,
+          "previous": 2.01,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 915.0,
+          "previous": 915.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 25375.0,
+          "previous": 25375.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 3706.0,
+          "previous": 4033.0,
+          "change": -327.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 761.0,
+          "previous": 761.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 8844.0,
+          "previous": 9171.0,
+          "change": -327.0
+        },
+        "Leasing factor": {
+          "current": 1.38,
+          "previous": 1.38,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model Y",
+      "version": "LongRange AWD",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 54970.0,
+        "对客定价": 2.01,
+        "分期月供-36个月/20kkm": 915.0,
+        "官网尾款（36）": 25375.0,
+        "贴息成本-分期（36个月）": 3706.0,
+        "租赁租金-36个月/20kkm": 761.0,
+        "贴息成本-租赁": 8844.0,
+        "Leasing factor": 1.38
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 54970.0,
+        "对客定价": 2.01,
+        "分期月供-36个月/20kkm": 915.0,
+        "官网尾款（36）": 25375.0,
+        "贴息成本-分期（36个月）": 4033.0,
+        "租赁租金-36个月/20kkm": 761.0,
+        "贴息成本-租赁": 9171.0,
+        "Leasing factor": 1.38
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 54970.0,
+          "previous": 54970.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 2.01,
+          "previous": 2.01,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 915.0,
+          "previous": 915.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 25375.0,
+          "previous": 25375.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 3706.0,
+          "previous": 4033.0,
+          "change": -327.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 761.0,
+          "previous": 761.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 8844.0,
+          "previous": 9171.0,
+          "change": -327.0
+        },
+        "Leasing factor": {
+          "current": 1.38,
+          "previous": 1.38,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "大众",
+      "model": "ID.4",
+      "version": "Pro with infotainment package",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 49160.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 831.0,
+        "官网尾款（36）": 21372.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 542.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.011
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 49160.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 831.0,
+        "官网尾款（36）": 21372.0,
+        "租赁租金-36个月/20kkm": 542.0,
+        "贴息成本-租赁": 9899.0,
+        "Leasing factor": 0.011,
+        "补贴政策时效_text": "Purchase Bonus直至6/30日有效(cash purchase or financing)",
+        "官网主机厂售价补贴": 4000.0,
+        "贴息成本-分期（36个月）": 257.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 49160.0,
+          "previous": 49160.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 831.0,
+          "previous": 831.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 21372.0,
+          "previous": 21372.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 542.0,
+          "previous": 542.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.011,
+          "previous": 0.011,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "大众",
+      "model": "ID.5",
+      "version": "Pro with infotainment package",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 51790.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 862.0,
+        "官网尾款（36）": 22995.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 535.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0103
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 51790.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 862.0,
+        "官网尾款（36）": 22995.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 535.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0103,
+        "补贴政策时效_text": "Purchase Bonus直至6/30日有效，The purchase bonus is €4,000 including VAT for the ID.3, ID.4, and ID.5 models, and €5,000 including VAT for the ID.7 and ID.7 Tourer. New ID. vehicles (both ordered and in-sto",
+        "官网主机厂售价补贴": 4000.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 51790.0,
+          "previous": 51790.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 862.0,
+          "previous": 862.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 22995.0,
+          "previous": 22995.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 535.0,
+          "previous": 535.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0103,
+          "previous": 0.0103,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "大众",
+      "model": "ID.5",
+      "version": "GTX with infotainment package",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 59335.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 973.0,
+        "官网尾款（36）": 26903.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 614.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0103
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 59335.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 973.0,
+        "官网尾款（36）": 26903.0,
+        "租赁租金-36个月/20kkm": 614.0,
+        "贴息成本-租赁": 16036.0,
+        "Leasing factor": 0.0103,
+        "补贴政策时效_text": "Purchase Bonus直至6/30日有效",
+        "官网主机厂售价补贴": 4000.0,
+        "贴息成本-分期（36个月）": 4058.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 59335.0,
+          "previous": 59335.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 973.0,
+          "previous": 973.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 26903.0,
+          "previous": 26903.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 614.0,
+          "previous": 614.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0103,
+          "previous": 0.0103,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "ix1",
+      "version": "eDrive20 Xline",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 52150.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 768.0,
+        "官网尾款（36）": 27639.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 854.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0164
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 52150.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 768.0,
+        "官网尾款（36）": 27639.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 854.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0164
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 52150.0,
+          "previous": 52150.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 768.0,
+          "previous": 768.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 27639.0,
+          "previous": 27639.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 854.0,
+          "previous": 854.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0164,
+          "previous": 0.0164,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "ix1",
+      "version": "xDrive30 Xline",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 59350.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 873.0,
+        "官网尾款（36）_text": "31445(36)",
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 971.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0164
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 59350.0,
+        "对客定价": 1.99,
+        "分期月供-36个月/20kkm": 873.0,
+        "官网尾款（36）_text": "31445(36)",
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 971.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0164
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 59350.0,
+          "previous": 59350.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 873.0,
+          "previous": 873.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 971.0,
+          "previous": 971.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0164,
+          "previous": 0.0164,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "ix3",
+      "version": "50 xDrive Serie",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 70900.0,
+        "对客定价": 4.49,
+        "分期月供-36个月/20kkm": 1101.0,
+        "官网尾款（36）_text": "39704(36)",
+        "租赁租金-36个月/20kkm": 1109.0,
+        "贴息成本-租赁": 1671.0,
+        "Leasing factor": 0.0156,
+        "贴息成本-分期（36个月）": 1938.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 70900.0,
+        "对客定价": 4.49,
+        "分期月供-36个月/20kkm": 1101.0,
+        "官网尾款（36）_text": "39704(36)",
+        "租赁租金-36个月/20kkm": 1109.0,
+        "贴息成本-租赁": 1671.0,
+        "Leasing factor": 0.0156,
+        "贴息成本-分期（36个月）": 1938.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 70900.0,
+          "previous": 70900.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.49,
+          "previous": 4.49,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1101.0,
+          "previous": 1101.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 1938.0,
+          "previous": 1938.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1109.0,
+          "previous": 1109.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 1671.0,
+          "previous": 1671.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0156,
+          "previous": 0.0156,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "奥迪",
+      "model": "Q6 SUV e-tron",
+      "version": "e-tron performance",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 68800.0,
+        "对客定价": 2.8,
+        "分期月供-36个月/20kkm": 1060.0,
+        "官网尾款（36）": 35005.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1022.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0149
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 68800.0,
+        "对客定价": 2.8,
+        "分期月供-36个月/20kkm": 1060.0,
+        "官网尾款（36）": 35005.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1022.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0149
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 68800.0,
+          "previous": 68800.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 2.8,
+          "previous": 2.8,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1060.0,
+          "previous": 1060.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 35005.0,
+          "previous": 35005.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1022.0,
+          "previous": 1022.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0149,
+          "previous": 0.0149,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "奥迪",
+      "model": "Q6 SUV e-tron",
+      "version": "quattro",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 74700.0,
+        "对客定价": 3.3,
+        "分期月供-36个月/20kkm": 1155.0,
+        "官网尾款（36）": 38725.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1113.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0149
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 74700.0,
+        "对客定价": 3.3,
+        "分期月供-36个月/20kkm": 1155.0,
+        "官网尾款（36）": 38725.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1113.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0149
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 74700.0,
+          "previous": 74700.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 3.3,
+          "previous": 3.3,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1155.0,
+          "previous": 1155.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 38725.0,
+          "previous": 38725.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1113.0,
+          "previous": 1113.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0149,
+          "previous": 0.0149,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "斯柯达",
+      "model": "Enyaq Coupe",
+      "version": "85 Sportline （60官网缺货）",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 56650.0,
+        "对客定价": 5.49,
+        "分期月供-36个月/20kkm": 893.0,
+        "官网尾款（36）": 31724.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 695.0,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.0123
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 56650.0,
+        "对客定价": 5.49,
+        "分期月供-36个月/20kkm": 893.0,
+        "官网尾款（36）": 31724.0,
+        "租赁租金-36个月/20kkm": 695.0,
+        "贴息成本-租赁": 14158.0,
+        "Leasing factor": 0.0123,
+        "贴息成本-分期（36个月）": 7551.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 56650.0,
+          "previous": 56650.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 5.49,
+          "previous": 5.49,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 893.0,
+          "previous": 893.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 31724.0,
+          "previous": 31724.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 695.0,
+          "previous": 695.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0123,
+          "previous": 0.0123,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "Sealion 7",
+      "version": "Design",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 55990.0,
+        "Leasing factor": 0.0,
+        "官网主机厂售价补贴": 9250.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 55990.0,
+        "Leasing factor": 0.0,
+        "官网主机厂售价补贴": 9250.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 55990.0,
+          "previous": 55990.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "Sealion 7",
+      "version": "Excellence",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 60990.0,
+        "Leasing factor": 0.0,
+        "官网主机厂售价补贴": 11750.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 60990.0,
+        "Leasing factor": 0.0,
+        "官网主机厂售价补贴": 11750.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 60990.0,
+          "previous": 60990.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "保时捷",
+      "model": "e-Macan",
+      "version": "4",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 84600.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 1657.0,
+        "官网尾款（36）": 39762.0,
+        "租赁租金-36个月/20kkm": 1314.0,
+        "贴息成本-租赁": 8163.0,
+        "Leasing factor": 0.0155,
+        "贴息成本-分期（36个月）": -3294.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 84600.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 1657.0,
+        "官网尾款（36）": 39762.0,
+        "租赁租金-36个月/20kkm": 1314.0,
+        "贴息成本-租赁": 8327.0,
+        "Leasing factor": 0.0155,
+        "贴息成本-分期（36个月）": -3131.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 84600.0,
+          "previous": 84600.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 7.22,
+          "previous": 7.22,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1657.0,
+          "previous": 1657.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 39762.0,
+          "previous": 39762.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -3294.0,
+          "previous": -3131.0,
+          "change": -163.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1314.0,
+          "previous": 1314.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 8163.0,
+          "previous": 8327.0,
+          "change": -164.0
+        },
+        "Leasing factor": {
+          "current": 0.0155,
+          "previous": 0.0155,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "保时捷",
+      "model": "e-Macan",
+      "version": "4s",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 91200.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 1787.0,
+        "官网尾款（36）": 42864.0,
+        "租赁租金-36个月/20kkm": 1424.0,
+        "贴息成本-租赁": 8721.0,
+        "Leasing factor": 0.0156,
+        "贴息成本-分期（36个月）": -3381.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 91200.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 1787.0,
+        "官网尾款（36）": 42864.0,
+        "租赁租金-36个月/20kkm": 1424.0,
+        "贴息成本-租赁": 8884.0,
+        "Leasing factor": 0.0156,
+        "贴息成本-分期（36个月）": -3217.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 91200.0,
+          "previous": 91200.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 7.22,
+          "previous": 7.22,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1787.0,
+          "previous": 1787.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 42864.0,
+          "previous": 42864.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -3381.0,
+          "previous": -3217.0,
+          "change": -164.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1424.0,
+          "previous": 1424.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 8721.0,
+          "previous": 8884.0,
+          "change": -163.0
+        },
+        "Leasing factor": {
+          "current": 0.0156,
+          "previous": 0.0156,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "小鹏",
+      "model": "G9",
+      "version": "RWD Long Range",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 63600.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 986.0,
+        "官网尾款（36）": 29097.0,
+        "贴息成本-租赁": 41107.0,
+        "Leasing factor_text": "#VALUE!",
+        "贴息成本-分期（36个月）": 8208.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 63600.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 986.0,
+        "官网尾款（36）": 29097.0,
+        "贴息成本-租赁": 41107.0,
+        "Leasing factor_text": "#VALUE!",
+        "补贴政策时效_text": "补贴：>12个月+>5k km，至6/30；官网上线计算器",
+        "官网主机厂售价补贴": 5000.0,
+        "贴息成本-分期（36个月）": 8208.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 63600.0,
+          "previous": 63600.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 986.0,
+          "previous": 986.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 29097.0,
+          "previous": 29097.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 8208.0,
+          "previous": 8208.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 41107.0,
+          "previous": 41107.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "小鹏",
+      "model": "G9",
+      "version": "AWD Performance",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 72600.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 1126.0,
+        "官网尾款（36）": 33214.0,
+        "贴息成本-租赁": 46835.0,
+        "Leasing factor_text": "#VALUE!",
+        "贴息成本-分期（36个月）": 9266.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 72600.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 1126.0,
+        "官网尾款（36）": 33214.0,
+        "贴息成本-租赁": 46876.0,
+        "Leasing factor_text": "#VALUE!",
+        "补贴政策时效_text": "补贴：>12个月+>5k km，至6/30；官网上线计算器",
+        "官网主机厂售价补贴": 5000.0,
+        "贴息成本-分期（36个月）": 9306.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 72600.0,
+          "previous": 72600.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1126.0,
+          "previous": 1126.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 33214.0,
+          "previous": 33214.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 9266.0,
+          "previous": 9306.0,
+          "change": -40.0
+        },
+        "贴息成本-租赁": {
+          "current": 46835.0,
+          "previous": 46876.0,
+          "change": -41.0
+        }
+      },
+      "has_key_change": false
+    }
+  ],
+  "comp_ultra": [
+    {
+      "brand": "奥迪",
+      "model": "e-tron GT",
+      "version": "S",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 126000.0,
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2239.0,
+        "贴息成本-分期（36个月）": 12396.0,
+        "租赁租金-36个月/20kkm": 2133.0,
+        "贴息成本-租赁": 15527.0,
+        "Leasing factor": 2.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 126000.0,
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2176.0,
+        "贴息成本-分期（36个月）": 14299.0,
+        "租赁租金-36个月/20kkm": 2067.0,
+        "贴息成本-租赁": 17473.0,
+        "Leasing factor": 2.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 126000.0,
+          "previous": 126000.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.6,
+          "previous": 4.6,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2239.0,
+          "previous": 2176.0,
+          "change": 63.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 12396.0,
+          "previous": 14299.0,
+          "change": -1903.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2133.0,
+          "previous": 2067.0,
+          "change": 66.0
+        },
+        "贴息成本-租赁": {
+          "current": 15527.0,
+          "previous": 17473.0,
+          "change": -1946.0
+        },
+        "Leasing factor": {
+          "current": 2.0,
+          "previous": 2.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奥迪",
+      "model": "e-tron GT",
+      "version": "S",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 126000.0,
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2239.0,
+        "贴息成本-分期（36个月）": 12396.0,
+        "租赁租金-36个月/20kkm": 2133.0,
+        "贴息成本-租赁": 15527.0,
+        "Leasing factor": 2.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 126000.0,
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2176.0,
+        "贴息成本-分期（36个月）": 14299.0,
+        "租赁租金-36个月/20kkm": 2067.0,
+        "贴息成本-租赁": 17473.0,
+        "Leasing factor": 2.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 126000.0,
+          "previous": 126000.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.6,
+          "previous": 4.6,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2239.0,
+          "previous": 2176.0,
+          "change": 63.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 12396.0,
+          "previous": 14299.0,
+          "change": -1903.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2133.0,
+          "previous": 2067.0,
+          "change": 66.0
+        },
+        "贴息成本-租赁": {
+          "current": 15527.0,
+          "previous": 17473.0,
+          "change": -1946.0
+        },
+        "Leasing factor": {
+          "current": 2.0,
+          "previous": 2.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "EQE",
+      "version": "AMG EQE 53 4MATIC+",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 107385.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 2294.0,
+        "官网尾款（36）": 35536.53,
+        "贴息成本-分期（36个月）": 9.0,
+        "租赁租金-36个月/20kkm": 1573.3,
+        "贴息成本-租赁": 24054.0,
+        "Leasing factor": 1.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 107385.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 2291.0,
+        "官网尾款（36）": 35647.0,
+        "贴息成本-分期（36个月）": 108.0,
+        "租赁租金-36个月/20kkm": 1571.0,
+        "贴息成本-租赁": 24131.0,
+        "Leasing factor": 1.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 107385.0,
+          "previous": 107385.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.99,
+          "previous": 4.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2294.0,
+          "previous": 2291.0,
+          "change": 3.0
+        },
+        "官网尾款（36）": {
+          "current": 35536.53,
+          "previous": 35647.0,
+          "change": -110.47
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 9.0,
+          "previous": 108.0,
+          "change": -99.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1573.3,
+          "previous": 1571.0,
+          "change": 2.3
+        },
+        "贴息成本-租赁": {
+          "current": 24054.0,
+          "previous": 24131.0,
+          "change": -77.0
+        },
+        "Leasing factor": {
+          "current": 1.0,
+          "previous": 1.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "保时捷",
+      "model": "Taycan",
+      "version": "4S Black Edition",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 136900.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 2752.34,
+        "官网尾款（36）": 61604.81,
+        "租赁租金-36个月/20kkm": 2298.0,
+        "贴息成本-租赁": 7469.0,
+        "Leasing factor": 0.0168,
+        "贴息成本-分期（36个月）": -7690.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 136900.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 2752.34,
+        "官网尾款（36）": 61604.81,
+        "租赁租金-36个月/20kkm": 2298.0,
+        "贴息成本-租赁": 7633.0,
+        "Leasing factor": 0.0168,
+        "贴息成本-分期（36个月）": -7526.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 136900.0,
+          "previous": 136900.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 7.22,
+          "previous": 7.22,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2752.34,
+          "previous": 2752.34,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 61604.81,
+          "previous": 61604.81,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -7690.0,
+          "previous": -7526.0,
+          "change": -164.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2298.0,
+          "previous": 2298.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 7469.0,
+          "previous": 7633.0,
+          "change": -164.0
+        },
+        "Leasing factor": {
+          "current": 0.0168,
+          "previous": 0.0168,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "保时捷",
+      "model": "Taycan",
+      "version": "GTS",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 148800.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 2991.59,
+        "官网尾款（36）": 66959.63,
+        "租赁租金-36个月/20kkm": 2504.0,
+        "贴息成本-租赁": 7916.0,
+        "Leasing factor": 0.0168,
+        "贴息成本-分期（36个月）": -8353.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 148800.0,
+        "对客定价": 7.22,
+        "分期月供-36个月/20kkm": 2991.59,
+        "官网尾款（36）": 66959.63,
+        "租赁租金-36个月/20kkm": 2504.0,
+        "贴息成本-租赁": 8202.0,
+        "Leasing factor": 0.0168,
+        "贴息成本-分期（36个月）": -8067.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 148800.0,
+          "previous": 148800.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 7.22,
+          "previous": 7.22,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2991.59,
+          "previous": 2991.59,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 66959.63,
+          "previous": 66959.63,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -8353.0,
+          "previous": -8067.0,
+          "change": -286.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2504.0,
+          "previous": 2504.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 7916.0,
+          "previous": 8202.0,
+          "change": -286.0
+        },
+        "Leasing factor": {
+          "current": 0.0168,
+          "previous": 0.0168,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "i5",
+      "version": "eDrive40 Limousine M Sportpaket",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 74600.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 1241.0,
+        "官网尾款（36）": 39538.0,
+        "租赁租金-36个月/20kkm": 1248.0,
+        "贴息成本-租赁": 6990.0,
+        "Leasing factor": 0.0167,
+        "贴息成本-分期（36个月）": 7224.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 74600.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 1241.0,
+        "官网尾款（36）": 39538.0,
+        "租赁租金-36个月/20kkm": 1248.0,
+        "贴息成本-租赁": 6868.0,
+        "Leasing factor": 0.0167,
+        "贴息成本-分期（36个月）": 7101.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 74600.0,
+          "previous": 74600.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.99,
+          "previous": 4.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1241.0,
+          "previous": 1241.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 39538.0,
+          "previous": 39538.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 7224.0,
+          "previous": 7101.0,
+          "change": 123.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1248.0,
+          "previous": 1248.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 6990.0,
+          "previous": 6868.0,
+          "change": 122.0
+        },
+        "Leasing factor": {
+          "current": 0.0167,
+          "previous": 0.0167,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "i5",
+      "version": "BMW i5 M60 xDrive Limousine",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 100200.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 1694.0,
+        "官网尾款（36）": 52104.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1702.57,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.017
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 100200.0,
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 1694.0,
+        "官网尾款（36）": 52104.0,
+        "贴息成本-分期（36期）_text": "#VALUE!",
+        "租赁租金-36个月/20kkm": 1702.57,
+        "贴息成本-租赁_text": "#VALUE!",
+        "Leasing factor": 0.017
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 100200.0,
+          "previous": 100200.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 4.99,
+          "previous": 4.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1694.0,
+          "previous": 1694.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 52104.0,
+          "previous": 52104.0,
+          "change": 0.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1702.57,
+          "previous": 1702.57,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.017,
+          "previous": 0.017,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "Lotus",
+      "model": "Emeya",
+      "version": "600 sport SE",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 129990.0,
+        "Leasing factor": 0.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 129990.0,
+        "Leasing factor": 0.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 129990.0,
+          "previous": 129990.0,
+          "change": 0.0
+        },
+        "Leasing factor": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "Polestar",
+      "model": "5",
+      "version": "Dual Motor-Launch Edition",
+      "level": "低配",
+      "current": {
+        "MSRP（inc. VAT）": 119900.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 1394.0,
+        "官网尾款（36）": 37655.5,
+        "租赁租金-36个月/20kkm": 1985.0,
+        "贴息成本-租赁": 8067.0,
+        "Leasing factor": 0.0166,
+        "贴息成本-分期（36个月）": 27789.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 119900.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 1394.0,
+        "官网尾款（36）": 37655.5,
+        "租赁租金-36个月/20kkm": 1985.0,
+        "贴息成本-租赁": 7903.0,
+        "Leasing factor": 0.0166,
+        "贴息成本-分期（36个月）": 27625.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 119900.0,
+          "previous": 119900.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1394.0,
+          "previous": 1394.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 37655.5,
+          "previous": 37655.5,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 27789.0,
+          "previous": 27625.0,
+          "change": 164.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1985.0,
+          "previous": 1985.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 8067.0,
+          "previous": 7903.0,
+          "change": 164.0
+        },
+        "Leasing factor": {
+          "current": 0.0166,
+          "previous": 0.0166,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "Polestar",
+      "model": "5",
+      "version": "Performance-Launch Edition",
+      "level": "高配",
+      "current": {
+        "MSRP（inc. VAT）": 142900.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 2232.0,
+        "官网尾款（36）": 64782.0,
+        "租赁租金-36个月/20kkm": 2357.78,
+        "贴息成本-租赁": 11884.0,
+        "Leasing factor": 0.0165,
+        "贴息成本-分期（36个月）": 16080.0
+      },
+      "previous": {
+        "MSRP（inc. VAT）": 142900.0,
+        "对客定价": 0.0,
+        "分期月供-36个月/20kkm": 2232.0,
+        "官网尾款（36）": 64782.0,
+        "租赁租金-36个月/20kkm": 2357.78,
+        "贴息成本-租赁": 11556.0,
+        "Leasing factor": 0.0165,
+        "贴息成本-分期（36个月）": 15753.0
+      },
+      "changes": {
+        "MSRP（inc. VAT）": {
+          "current": 142900.0,
+          "previous": 142900.0,
+          "change": 0.0
+        },
+        "对客定价": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2232.0,
+          "previous": 2232.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 64782.0,
+          "previous": 64782.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 16080.0,
+          "previous": 15753.0,
+          "change": 327.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2357.78,
+          "previous": 2357.78,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": 11884.0,
+          "previous": 11556.0,
+          "change": 328.0
+        },
+        "Leasing factor": {
+          "current": 0.0165,
+          "previous": 0.0165,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    }
+  ]
+}

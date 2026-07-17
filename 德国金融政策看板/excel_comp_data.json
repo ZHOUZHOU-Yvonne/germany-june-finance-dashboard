@@ -1,0 +1,2466 @@
+{
+  "comp_su7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 6658.79,
+          "previous": 6906.64,
+          "change": -247.8498
+        },
+        "理论月租-48": {
+          "current": 682.35,
+          "previous": 673.34,
+          "change": 9.0104
+        },
+        "官网尾款-48": {
+          "current": 21145.0,
+          "previous": 13947.0,
+          "change": 7198.0
+        },
+        "租赁租金-48": {
+          "current": 449.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.01166,
+          "previous": 0.01166,
+          "change": 0.0
+        },
+        "官网尾款-36": {
+          "current": 21145.0,
+          "previous": 21145.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 861.74,
+          "previous": 860.52,
+          "change": 1.2257
+        },
+        "Leasing factor-48": {
+          "current": 0.009767,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 529.0,
+          "previous": 543.0,
+          "change": -14.0
+        },
+        "对客定价-48": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 5062.98,
+          "previous": 5022.08,
+          "change": 40.8964
+        },
+        "贴息成本-租赁-48": {
+          "current": 10132.63,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 10868.61,
+          "previous": 10827.72,
+          "change": 40.8964
+        },
+        "分期月供-36": {
+          "current": 710.0,
+          "previous": 710.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 536.0,
+          "previous": 536.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "AWD Performance",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 1398.03,
+          "previous": -1483.76,
+          "change": 2881.7887
+        },
+        "理论月租-48": {
+          "current": 959.2,
+          "previous": 882.0,
+          "change": 77.196
+        },
+        "官网尾款-48": {
+          "current": 25736.0,
+          "previous": 16962.0,
+          "change": 8774.0
+        },
+        "租赁租金-48": {
+          "current": 950.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.019892,
+          "previous": 0.019892,
+          "change": 0.0
+        },
+        "官网尾款-36": {
+          "current": 25736.0,
+          "previous": 25736.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0585,
+          "previous": 0.0585,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1147.46,
+          "previous": 1146.23,
+          "change": 1.2257
+        },
+        "Leasing factor-48": {
+          "current": 0.015974,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 927.0,
+          "previous": 910.0,
+          "change": 17.0
+        },
+        "对客定价-48": {
+          "current": 0.0585,
+          "previous": 0.0585,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": -885.65,
+          "previous": -926.55,
+          "change": 40.8964
+        },
+        "贴息成本-租赁-48": {
+          "current": 399.3,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": -1185.95,
+          "previous": -1226.84,
+          "change": 40.8964
+        },
+        "分期月供-36": {
+          "current": 1174.0,
+          "previous": 1174.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 1183.0,
+          "previous": 1183.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "奔驰",
+      "model": "CLA",
+      "version": "250+ mit EQ Technologie Edition",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 4203.89,
+          "previous": 387.36,
+          "change": 3816.5312
+        },
+        "理论月租-48": {
+          "current": 989.52,
+          "previous": 954.73,
+          "change": 34.7927
+        },
+        "官网尾款-48": {
+          "current": 30598.89,
+          "previous": 27760.53,
+          "change": 2838.36
+        },
+        "租赁租金-48": {
+          "current": 847.05,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.015088,
+          "previous": 0.014873,
+          "change": 0.0002
+        },
+        "官网尾款-36": {
+          "current": 33783.39,
+          "previous": 31429.63,
+          "change": 2353.76
+        },
+        "对客定价-36": {
+          "current": 0.0399,
+          "previous": 0.0399,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1233.22,
+          "previous": 1231.99,
+          "change": 1.2257
+        },
+        "Leasing factor-48": {
+          "current": 0.01288,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 892.71,
+          "previous": 947.42,
+          "change": -54.71
+        },
+        "对客定价-48": {
+          "current": 0.0399,
+          "previous": 0.0399,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 5998.13,
+          "previous": 2502.21,
+          "change": 3495.9147
+        },
+        "贴息成本-租赁-48": {
+          "current": 6186.58,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 8037.77,
+          "previous": 8470.67,
+          "change": -432.8966
+        },
+        "分期月供-36": {
+          "current": 1053.45,
+          "previous": 1157.0,
+          "change": -103.55
+        },
+        "租赁租金-36": {
+          "current": 992.32,
+          "previous": 978.12,
+          "change": 14.2
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "CLA",
+      "version": "350 mit EQ Technologie Edition",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 4214.82,
+          "previous": 322.6,
+          "change": 3892.2178
+        },
+        "理论月租-48": {
+          "current": 1047.12,
+          "previous": 1014.09,
+          "change": 33.0364
+        },
+        "官网尾款-48": {
+          "current": 32687.18,
+          "previous": 29661.95,
+          "change": 3025.23
+        },
+        "租赁租金-48": {
+          "current": 901.56,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.015063,
+          "previous": 0.014837,
+          "change": 0.0002
+        },
+        "官网尾款-36": {
+          "current": 36081.33,
+          "previous": 33572.61,
+          "change": 2508.72
+        },
+        "对客定价-36": {
+          "current": 0.0399,
+          "previous": 0.0399,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1302.93,
+          "previous": 1302.93,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.012862,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 950.06,
+          "previous": 1008.0,
+          "change": -57.94
+        },
+        "对客定价-48": {
+          "current": 0.0399,
+          "previous": 0.0399,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 6074.5,
+          "previous": 3901.39,
+          "change": 2173.1081
+        },
+        "贴息成本-租赁-48": {
+          "current": 6320.83,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 8242.6,
+          "previous": 8772.78,
+          "change": -530.181
+        },
+        "分期月供-36": {
+          "current": 1120.87,
+          "previous": 1186.0,
+          "change": -65.13
+        },
+        "租赁租金-36": {
+          "current": 1055.89,
+          "previous": 1040.0,
+          "change": 15.89
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "大众",
+      "model": "ID.7",
+      "version": "Pro S",
+      "level": "低配",
+      "changes": {
+        "理论月租-48": {
+          "current": 926.62,
+          "previous": 864.31,
+          "change": 62.309
+        },
+        "贴息成本-分期-48": {
+          "current": 6578.16,
+          "previous": 3778.84,
+          "change": 2799.3217
+        },
+        "官网尾款-48": {
+          "current": 26469.33,
+          "previous": 24820.0,
+          "change": 1649.33
+        },
+        "租赁租金-48": {
+          "current": 644.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013245,
+          "previous": 0.012976,
+          "change": 0.0003
+        },
+        "官网尾款-36": {
+          "current": 26969.08,
+          "previous": 28067.0,
+          "change": -1097.92
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1131.05,
+          "previous": 1129.82,
+          "change": 1.2257
+        },
+        "Leasing factor-48": {
+          "current": 0.010824,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 775.13,
+          "previous": 793.0,
+          "change": -17.87
+        },
+        "对客定价-48": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 4285.34,
+          "previous": 6133.28,
+          "change": -1847.936
+        },
+        "贴息成本-租赁-48": {
+          "current": 12272.21,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 11445.96,
+          "previous": 11938.91,
+          "change": -492.9548
+        },
+        "分期月供-36": {
+          "current": 1002.61,
+          "previous": 946.0,
+          "change": 56.61
+        },
+        "租赁租金-36": {
+          "current": 788.0,
+          "previous": 772.0,
+          "change": 16.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "大众",
+      "model": "ID.7",
+      "version": "GTX",
+      "level": "高配",
+      "changes": {
+        "理论月租-48": {
+          "current": 1005.96,
+          "previous": 884.05,
+          "change": 121.9111
+        },
+        "贴息成本-分期-48": {
+          "current": 8095.34,
+          "previous": 2387.17,
+          "change": 5708.1707
+        },
+        "租赁租金-48": {
+          "current": 689.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013206,
+          "previous": 0.012971,
+          "change": 0.0002
+        },
+        "官网尾款-36": {
+          "current": 29523.69,
+          "previous": 30705.0,
+          "change": -1181.31
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1171.64,
+          "previous": 1167.97,
+          "change": 3.6771
+        },
+        "Leasing factor-48": {
+          "current": 0.010793,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 819.53,
+          "previous": 839.0,
+          "change": -19.47
+        },
+        "对客定价-48": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 3745.07,
+          "previous": 5637.67,
+          "change": -1892.5992
+        },
+        "贴息成本-租赁-48": {
+          "current": 13763.34,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 10965.41,
+          "previous": 11343.21,
+          "change": -377.7964
+        },
+        "分期月供-36": {
+          "current": 1059.4,
+          "previous": 999.0,
+          "change": 60.4
+        },
+        "租赁租金-36": {
+          "current": 843.0,
+          "previous": 828.0,
+          "change": 15.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "i4",
+      "version": "eDrive40 Gran Coupe",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 525.45,
+          "previous": 3797.37,
+          "change": -3271.9241
+        },
+        "理论月租-48": {
+          "current": 878.59,
+          "previous": 840.4,
+          "change": 38.1896
+        },
+        "官网尾款-48": {
+          "current": 25746.0,
+          "previous": 23294.0,
+          "change": 2452.0
+        },
+        "租赁租金-48": {
+          "current": 1009.24,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.019273,
+          "previous": 0.018069,
+          "change": 0.0012
+        },
+        "官网尾款-36": {
+          "current": 29424.0,
+          "previous": 30037.0,
+          "change": -613.0
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1101.8,
+          "previous": 1098.12,
+          "change": 3.6771
+        },
+        "Leasing factor-48": {
+          "current": 0.016464,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 866.49,
+          "previous": 768.74,
+          "change": 97.75
+        },
+        "对客定价-48": {
+          "current": 0.0299,
+          "previous": 0.0349,
+          "change": -0.005
+        },
+        "贴息成本-分期-36": {
+          "current": 3809.21,
+          "previous": 4241.39,
+          "change": -432.1825
+        },
+        "贴息成本-租赁-48": {
+          "current": -5673.18,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 4752.91,
+          "previous": 6375.07,
+          "change": -1622.1597
+        },
+        "分期月供-36": {
+          "current": 987.63,
+          "previous": 971.0,
+          "change": 16.63
+        },
+        "租赁租金-36": {
+          "current": 1181.45,
+          "previous": 1107.63,
+          "change": 73.82
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "i4",
+      "version": "M60 Gran Coupe xDrive",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 532.5,
+          "previous": 4453.87,
+          "change": -3921.3723
+        },
+        "理论月租-48": {
+          "current": 1053.05,
+          "previous": 1008.05,
+          "change": 45.003
+        },
+        "官网尾款-48": {
+          "current": 32116.7,
+          "previous": 28006.0,
+          "change": 4110.7
+        },
+        "租赁租金-48": {
+          "current": 1163.22,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.018436,
+          "previous": 0.018073,
+          "change": 0.0004
+        },
+        "官网尾款-36": {
+          "current": 36598.1,
+          "previous": 36113.0,
+          "change": 485.1
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1321.45,
+          "previous": 1317.77,
+          "change": 3.6771
+        },
+        "Leasing factor-48": {
+          "current": 0.015783,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1040.79,
+          "previous": 924.0,
+          "change": 116.79
+        },
+        "对客定价-48": {
+          "current": 0.0299,
+          "previous": 0.0349,
+          "change": -0.005
+        },
+        "贴息成本-分期-36": {
+          "current": 4631.08,
+          "previous": 5030.56,
+          "change": -399.4841
+        },
+        "贴息成本-租赁-48": {
+          "current": -4783.77,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": -1243.95,
+          "previous": -474.78,
+          "change": -769.1761
+        },
+        "分期月供-36": {
+          "current": 1182.65,
+          "previous": 1167.0,
+          "change": 15.65
+        },
+        "租赁租金-36": {
+          "current": 1358.73,
+          "previous": 1332.0,
+          "change": 26.73
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "比亚迪",
+      "model": "SEAL",
+      "version": "Design",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "SEAL",
+      "version": "Excellence",
+      "level": "高配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "现代",
+      "model": "IONIQ 6",
+      "version": "77.4 kWh Uniq",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "现代",
+      "model": "IONIQ 6",
+      "version": "63 kWh RWD",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "现代",
+      "model": "IONIQ 6",
+      "version": "77.4 kWh 4WD Uniq",
+      "level": "高配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "马自达",
+      "model": "6e EV",
+      "version": "EV Long Range Takumi Plus",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 8723.67,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 720.9,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 19204.5,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 668.74,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.017032,
+          "previous": null,
+          "change": null
+        },
+        "对客定价-36": {
+          "current": 0.0524,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-36": {
+          "current": 895.89,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-48": {
+          "current": 0.013788,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 520.0,
+          "previous": null,
+          "change": null
+        },
+        "对客定价-48": {
+          "current": 0.0524,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-分期-36": {
+          "current": 8504.74,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-48": {
+          "current": 2264.94,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 2330.41,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 641.0,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-36": {
+          "current": 826.05,
+          "previous": null,
+          "change": null
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "极氪",
+      "model": "001",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "changes": {
+        "理论月租-48": {
+          "current": 931.75,
+          "previous": 854.1,
+          "change": 77.6525
+        },
+        "租赁租金-48": {
+          "current": 652.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013402,
+          "previous": 0.013319,
+          "change": 0.0001
+        },
+        "Leasing factor-48": {
+          "current": 0.010868,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-36": {
+          "current": 1148.33,
+          "previous": 1148.33,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 12147.48,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 11488.9,
+          "previous": 11655.73,
+          "change": -166.8285
+        },
+        "租赁租金-36": {
+          "current": 804.0,
+          "previous": 799.0,
+          "change": 5.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "极氪",
+      "model": "001",
+      "version": "AWD Performance",
+      "level": "高配",
+      "changes": {
+        "理论月租-48": {
+          "current": 1005.41,
+          "previous": 927.51,
+          "change": 77.9033
+        },
+        "租赁租金-48": {
+          "current": 711.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013275,
+          "previous": 0.013047,
+          "change": 0.0002
+        },
+        "Leasing factor-48": {
+          "current": 0.010774,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-36": {
+          "current": 1233.78,
+          "previous": 1233.78,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 12784.31,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 11937.55,
+          "previous": 12438.03,
+          "change": -500.4855
+        },
+        "租赁租金-36": {
+          "current": 876.0,
+          "previous": 861.0,
+          "change": 15.0
+        }
+      },
+      "has_key_change": true
+    }
+  ],
+  "comp_yu7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model Y",
+      "version": "LongRange AWD",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 4909.42,
+          "previous": 5259.57,
+          "change": -350.1514
+        },
+        "理论月租-48": {
+          "current": 834.06,
+          "previous": 808.25,
+          "change": 25.8059
+        },
+        "官网尾款-48": {
+          "current": 24296.0,
+          "previous": 16737.0,
+          "change": 7559.0
+        },
+        "租赁租金-48": {
+          "current": 649.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013844,
+          "previous": 0.013844,
+          "change": 0.0
+        },
+        "官网尾款-36": {
+          "current": 25375.0,
+          "previous": 25375.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0201,
+          "previous": 0.0201,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1026.07,
+          "previous": 1035.88,
+          "change": -9.8056
+        },
+        "Leasing factor-48": {
+          "current": 0.011806,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 721.0,
+          "previous": 709.0,
+          "change": 12.0
+        },
+        "对客定价-48": {
+          "current": 0.0201,
+          "previous": 0.0201,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 3705.92,
+          "previous": 4033.09,
+          "change": -327.171
+        },
+        "贴息成本-租赁-48": {
+          "current": 8035.87,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 8844.24,
+          "previous": 9171.41,
+          "change": -327.171
+        },
+        "分期月供-36": {
+          "current": 915.0,
+          "previous": 915.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 761.0,
+          "previous": 761.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model Y",
+      "version": "Performance AWD",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": -876.54,
+          "previous": -965.74,
+          "change": 89.1945
+        },
+        "理论月租-48": {
+          "current": 976.81,
+          "previous": 941.78,
+          "change": 35.0385
+        },
+        "官网尾款-48": {
+          "current": 27716.0,
+          "previous": 19527.0,
+          "change": 8189.0
+        },
+        "租赁租金-48": {
+          "current": 1022.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.019384,
+          "previous": 0.019134,
+          "change": 0.0003
+        },
+        "官网尾款-36": {
+          "current": 28975.0,
+          "previous": 29605.0,
+          "change": -630.0
+        },
+        "对客定价-36": {
+          "current": 0.0585,
+          "previous": 0.0585,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1205.11,
+          "previous": 1213.69,
+          "change": -8.5799
+        },
+        "Leasing factor-48": {
+          "current": 0.015976,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 997.0,
+          "previous": 960.0,
+          "change": 37.0
+        },
+        "对客定价-48": {
+          "current": 0.0585,
+          "previous": 0.0585,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": -797.24,
+          "previous": 22.89,
+          "change": -820.1258
+        },
+        "贴息成本-租赁-48": {
+          "current": -1962.11,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": -1164.26,
+          "previous": -344.14,
+          "change": -820.1258
+        },
+        "分期月供-36": {
+          "current": 1229.0,
+          "previous": 1213.0,
+          "change": 16.0
+        },
+        "租赁租金-36": {
+          "current": 1240.0,
+          "previous": 1224.0,
+          "change": 16.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "EQA",
+      "version": "300 4MATIC Electric Art",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "奔驰",
+      "model": "EQA",
+      "version": "350 4MATIC AMG Line Premium",
+      "level": "高配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "大众",
+      "model": "ID.4",
+      "version": "Pro",
+      "level": "低配",
+      "changes": {
+        "理论月租-48": {
+          "current": 721.76,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-分期-48": {
+          "current": 2638.54,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 20190.0,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 474.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.011839,
+          "previous": 0.011025,
+          "change": 0.0008
+        },
+        "官网尾款-36": {
+          "current": 20462.85,
+          "previous": 21372.0,
+          "change": -909.15
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.009642,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 661.0,
+          "previous": 689.0,
+          "change": -28.0
+        },
+        "对客定价-48": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 10758.63,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 855.0,
+          "previous": 831.0,
+          "change": 24.0
+        },
+        "租赁租金-36": {
+          "current": 582.0,
+          "previous": 542.0,
+          "change": 40.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "大众",
+      "model": "ID.5",
+      "version": "Pro",
+      "level": "低配",
+      "changes": {
+        "理论月租-48": {
+          "current": 812.79,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-分期-48": {
+          "current": 5040.27,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 21270.15,
+          "previous": 20132.0,
+          "change": 1138.15
+        },
+        "分期月供-36": {
+          "current": 900.99,
+          "previous": 862.0,
+          "change": 38.99
+        },
+        "租赁租金-48": {
+          "current": 474.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.011199,
+          "previous": 0.01033,
+          "change": 0.0009
+        },
+        "官网尾款-36": {
+          "current": 21557.59,
+          "previous": 22995.0,
+          "change": -1437.41
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.009152,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 696.72,
+          "previous": 716.0,
+          "change": -19.28
+        },
+        "对客定价-48": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 14711.43,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-36": {
+          "current": 580.0,
+          "previous": 535.0,
+          "change": 45.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "大众",
+      "model": "ID.5",
+      "version": "GTX",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 7146.87,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 952.07,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 24926.13,
+          "previous": 23828.0,
+          "change": 1098.13
+        },
+        "租赁租金-48": {
+          "current": 519.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.010648,
+          "previous": 0.010348,
+          "change": 0.0003
+        },
+        "官网尾款-36": {
+          "current": 25255.55,
+          "previous": 26903.0,
+          "change": -1647.45
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.008744,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 787.48,
+          "previous": 809.0,
+          "change": -21.52
+        },
+        "对客定价-48": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 18805.07,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 1017.79,
+          "previous": 973.0,
+          "change": 44.79
+        },
+        "租赁租金-36": {
+          "current": 632.0,
+          "previous": 614.0,
+          "change": 18.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "ix1",
+      "version": "eDrive20 Xline",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 2503.78,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 752.99,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 23989.0,
+          "previous": 20860.0,
+          "change": 3129.0
+        },
+        "租赁租金-48": {
+          "current": 767.48,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.017105,
+          "previous": 0.016376,
+          "change": 0.0007
+        },
+        "官网尾款-36": {
+          "current": 27639.0,
+          "previous": 27639.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.014717,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 695.33,
+          "previous": 637.79,
+          "change": 57.54
+        },
+        "对客定价-48": {
+          "current": 0.0299,
+          "previous": 0.0349,
+          "change": -0.005
+        },
+        "贴息成本-租赁-48": {
+          "current": -629.19,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 768.0,
+          "previous": 768.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 892.0,
+          "previous": 854.0,
+          "change": 38.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "ix1",
+      "version": "xDrive30 Xline",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 4211.94,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 888.34,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 27301.0,
+          "previous": 23740.0,
+          "change": 3561.0
+        },
+        "租赁租金-48": {
+          "current": 873.44,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.017117,
+          "previous": 0.016361,
+          "change": 0.0008
+        },
+        "官网尾款-36": {
+          "current": 31445.0,
+          "previous": 31445.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0199,
+          "previous": 0.0199,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.014717,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 791.34,
+          "previous": 726.0,
+          "change": 65.34
+        },
+        "对客定价-48": {
+          "current": 0.0299,
+          "previous": 0.0349,
+          "change": -0.005
+        },
+        "贴息成本-租赁-48": {
+          "current": 646.92,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 873.0,
+          "previous": 873.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 1015.87,
+          "previous": 971.0,
+          "change": 44.87
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "ix3",
+      "version": "50 xDrive Serie",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": -9722.88,
+          "previous": 364.31,
+          "change": -10087.193
+        },
+        "理论月租-48": {
+          "current": 815.52,
+          "previous": 925.87,
+          "change": -110.3578
+        },
+        "官网尾款-48": {
+          "current": 35450.0,
+          "previous": 31905.0,
+          "change": 3545.0
+        },
+        "租赁租金-48": {
+          "current": 1013.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.016412,
+          "previous": 0.015642,
+          "change": 0.0008
+        },
+        "官网尾款-36": {
+          "current": 39704.0,
+          "previous": 39704.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0449,
+          "previous": 0.0449,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1160.31,
+          "previous": 1159.08,
+          "change": 1.2257
+        },
+        "Leasing factor-48": {
+          "current": 0.014288,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 999.0,
+          "previous": 919.0,
+          "change": 80.0
+        },
+        "对客定价-48": {
+          "current": 0.0549,
+          "previous": 0.0599,
+          "change": -0.005
+        },
+        "贴息成本-分期-36": {
+          "current": 1978.92,
+          "previous": 1938.02,
+          "change": 40.8964
+        },
+        "贴息成本-租赁-48": {
+          "current": -8575.29,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": -110.78,
+          "previous": 1671.1,
+          "change": -1781.8719
+        },
+        "分期月供-36": {
+          "current": 1101.0,
+          "previous": 1101.0,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 1163.63,
+          "previous": 1109.0,
+          "change": 54.63
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奥迪",
+      "model": "Q6 SUV e-tron",
+      "version": "e-tron performance",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 7730.23,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 1071.02,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 33075.45,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 857.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.014913,
+          "previous": 0.014855,
+          "change": 0.0001
+        },
+        "官网尾款-36": {
+          "current": 33684.48,
+          "previous": 35005.0,
+          "change": -1320.52
+        },
+        "对客定价-36": {
+          "current": 0.028,
+          "previous": 0.028,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.012456,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 893.0,
+          "previous": 929.0,
+          "change": -36.0
+        },
+        "对客定价-48": {
+          "current": 0.033,
+          "previous": 0.033,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 9293.46,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 1095.17,
+          "previous": 1060.0,
+          "change": 35.17
+        },
+        "租赁租金-36": {
+          "current": 1026.0,
+          "previous": 1022.0,
+          "change": 4.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奥迪",
+      "model": "Q6 SUV e-tron",
+      "version": "quattro",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 8165.51,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 1166.58,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 36142.85,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 932.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.013976,
+          "previous": 0.0149,
+          "change": -0.0009
+        },
+        "官网尾款-36": {
+          "current": 37290.24,
+          "previous": 38725.0,
+          "change": -1434.76
+        },
+        "对客定价-36": {
+          "current": 0.033,
+          "previous": 0.033,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.012477,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 978.53,
+          "previous": 1017.0,
+          "change": -38.47
+        },
+        "对客定价-48": {
+          "current": 0.038,
+          "previous": 0.038,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 10185.98,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 1193.1,
+          "previous": 1155.0,
+          "change": 38.1
+        },
+        "租赁租金-36": {
+          "current": 1044.0,
+          "previous": 1113.0,
+          "change": -69.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "斯柯达",
+      "model": "Enyaq Coupe",
+      "version": "85 Sportline",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 7720.25,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 910.38,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 30647.65,
+          "previous": 24246.0,
+          "change": 6401.65
+        },
+        "租赁租金-48": {
+          "current": 589.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.012498,
+          "previous": 0.012268,
+          "change": 0.0002
+        },
+        "官网尾款-36": {
+          "current": 31157.0,
+          "previous": 31724.0,
+          "change": -567.0
+        },
+        "对客定价-36": {
+          "current": 0.0619,
+          "previous": 0.0549,
+          "change": 0.007
+        },
+        "Leasing factor-48": {
+          "current": 0.010397,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 764.69,
+          "previous": 742.0,
+          "change": 22.69
+        },
+        "对客定价-48": {
+          "current": 0.0619,
+          "previous": 0.0599,
+          "change": 0.002
+        },
+        "贴息成本-租赁-48": {
+          "current": 13955.29,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 932.11,
+          "previous": 893.0,
+          "change": 39.11
+        },
+        "租赁租金-36": {
+          "current": 708.0,
+          "previous": 695.0,
+          "change": 13.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "比亚迪",
+      "model": "Sealion 7",
+      "version": "Design",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "比亚迪",
+      "model": "Sealion 7",
+      "version": "Excellence",
+      "level": "高配",
+      "changes": {
+        "贴息成本-租赁-48": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.0,
+          "previous": 0.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    }
+  ],
+  "comp_ultra": [
+    {
+      "brand": "奥迪",
+      "model": "e-tron GT",
+      "version": "S",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 15546.51,
+          "previous": 2803.79,
+          "change": 12742.7233
+        },
+        "理论月租-48": {
+          "current": 2115.03,
+          "previous": 1970.57,
+          "change": 144.4559
+        },
+        "官网尾款-48": {
+          "current": 56125.44,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 1757.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.016929,
+          "previous": 0.016405,
+          "change": 0.0005
+        },
+        "对客定价-36": {
+          "current": 0.046,
+          "previous": 0.046,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 2610.69,
+          "previous": 2604.56,
+          "change": 6.1285
+        },
+        "Leasing factor-48": {
+          "current": 0.013944,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1841.8,
+          "previous": 1906.0,
+          "change": -64.2
+        },
+        "对客定价-48": {
+          "current": 0.051,
+          "previous": 0.051,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 12396.41,
+          "previous": 14299.3,
+          "change": -1902.8958
+        },
+        "贴息成本-租赁-48": {
+          "current": 15546.51,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 15527.23,
+          "previous": 17473.34,
+          "change": -1946.1065
+        },
+        "分期月供-36": {
+          "current": 2239.16,
+          "previous": 2176.0,
+          "change": 63.16
+        },
+        "租赁租金-36": {
+          "current": 2133.0,
+          "previous": 2067.0,
+          "change": 66.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奥迪",
+      "model": "e-tron GT",
+      "version": "RS",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 30569.56,
+          "previous": 6700.05,
+          "change": 23869.515
+        },
+        "理论月租-48": {
+          "current": 2523.25,
+          "previous": 2332.3,
+          "change": 190.9481
+        },
+        "官网尾款-48": {
+          "current": 78661.23,
+          "previous": null,
+          "change": null
+        },
+        "租赁租金-48": {
+          "current": 2000.0,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.0164,
+          "previous": 0.015878,
+          "change": 0.0005
+        },
+        "官网尾款-36": {
+          "current": 81261.6,
+          "previous": null,
+          "change": null
+        },
+        "对客定价-36": {
+          "current": 0.046,
+          "previous": 0.046,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 3114.11,
+          "previous": 3107.98,
+          "change": 6.1285
+        },
+        "Leasing factor-48": {
+          "current": 0.013559,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1819.25,
+          "previous": 2178.0,
+          "change": -358.75
+        },
+        "对客定价-48": {
+          "current": 0.051,
+          "previous": 0.051,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 31958.01,
+          "previous": 21153.24,
+          "change": 10804.7652
+        },
+        "贴息成本-租赁-48": {
+          "current": 22720.86,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 23192.84,
+          "previous": 25557.51,
+          "change": -2364.6771
+        },
+        "分期月供-36": {
+          "current": 2156.3,
+          "previous": 2474.0,
+          "change": -317.7
+        },
+        "租赁租金-36": {
+          "current": 2419.0,
+          "previous": 2342.0,
+          "change": 77.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "EQE",
+      "version": "AMG EQE 53 4MATIC+",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 640.39,
+          "previous": -9610.02,
+          "change": 10250.407
+        },
+        "理论月租-48": {
+          "current": 1841.33,
+          "previous": 1657.69,
+          "change": 183.6396
+        },
+        "官网尾款-48": {
+          "current": 33875.94,
+          "previous": 31108.0,
+          "change": 2767.94
+        },
+        "租赁租金-48": {
+          "current": 1313.99,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.014651,
+          "previous": 0.01463,
+          "change": 0.0
+        },
+        "官网尾款-36": {
+          "current": 35536.53,
+          "previous": 35647.0,
+          "change": -110.47
+        },
+        "对客定价-36": {
+          "current": 0.0499,
+          "previous": 0.0499,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 2294.23,
+          "previous": 2294.23,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.012236,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1826.58,
+          "previous": 1879.0,
+          "change": -52.42
+        },
+        "对客定价-48": {
+          "current": 0.0499,
+          "previous": 0.0499,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 9.08,
+          "previous": 107.84,
+          "change": -98.7625
+        },
+        "贴息成本-租赁-48": {
+          "current": 22898.56,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 24054.41,
+          "previous": 24131.15,
+          "change": -76.7411
+        },
+        "分期月供-36": {
+          "current": 2293.96,
+          "previous": 2291.0,
+          "change": 2.96
+        },
+        "租赁租金-36": {
+          "current": 1573.3,
+          "previous": 1571.0,
+          "change": 2.3
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "保时捷",
+      "model": "Taycan",
+      "version": "4S Black Edition",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": -11439.62,
+          "previous": -27144.24,
+          "change": 15704.6251
+        },
+        "理论月租-48": {
+          "current": 2039.01,
+          "previous": 1879.42,
+          "change": 159.5964
+        },
+        "官网尾款-48": {
+          "current": 56128.59,
+          "previous": 45177.0,
+          "change": 10951.59
+        },
+        "租赁租金-48": {
+          "current": 2124.35,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.018242,
+          "previous": 0.016786,
+          "change": 0.0015
+        },
+        "官网尾款-36": {
+          "current": 61604.81,
+          "previous": 61604.81,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0722,
+          "previous": 0.0722,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 2516.96,
+          "previous": 2521.86,
+          "change": -4.9028
+        },
+        "Leasing factor-48": {
+          "current": 0.015518,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 2302.46,
+          "previous": 2504.53,
+          "change": -202.07
+        },
+        "对客定价-48": {
+          "current": 0.0722,
+          "previous": 0.0722,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": -7853.66,
+          "previous": -7690.07,
+          "change": -163.5855
+        },
+        "贴息成本-租赁-48": {
+          "current": -3705.56,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 652.93,
+          "previous": 7469.3,
+          "change": -6816.3727
+        },
+        "分期月供-36": {
+          "current": 2752.34,
+          "previous": 2752.34,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 2497.39,
+          "previous": 2298.0,
+          "change": 199.39
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "保时捷",
+      "model": "Taycan",
+      "version": "GTS",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": -12548.84,
+          "previous": -29485.13,
+          "change": 16936.2884
+        },
+        "理论月租-48": {
+          "current": 2213.61,
+          "previous": 2043.22,
+          "change": 170.3908
+        },
+        "官网尾款-48": {
+          "current": 61007.55,
+          "previous": 49103.54,
+          "change": 11904.01
+        },
+        "租赁租金-48": {
+          "current": 2309.02,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.018243,
+          "previous": 0.016828,
+          "change": 0.0014
+        },
+        "官网尾款-36": {
+          "current": 66959.63,
+          "previous": 66959.63,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0722,
+          "previous": 0.0722,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 2732.66,
+          "previous": 2741.24,
+          "change": -8.5799
+        },
+        "Leasing factor-48": {
+          "current": 0.015518,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 2502.6,
+          "previous": 2722.24,
+          "change": -219.64
+        },
+        "对客定价-48": {
+          "current": 0.0722,
+          "previous": 0.0722,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": -8639.49,
+          "previous": -8353.21,
+          "change": -286.2746
+        },
+        "贴息成本-租赁-48": {
+          "current": -4143.03,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 606.15,
+          "previous": 7915.57,
+          "change": -7309.4211
+        },
+        "分期月供-36": {
+          "current": 2991.59,
+          "previous": 2991.59,
+          "change": 0.0
+        },
+        "租赁租金-36": {
+          "current": 2714.49,
+          "previous": 2504.0,
+          "change": 210.49
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model S",
+      "version": "All-wheel drive",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model S",
+      "version": "Plaid",
+      "level": "高配",
+      "changes": {},
+      "has_key_change": false
+    },
+    {
+      "brand": "宝马",
+      "model": "i5",
+      "version": "eDrive40 Limousine",
+      "level": "低配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 2848.22,
+          "previous": 3544.88,
+          "change": -696.6604
+        },
+        "理论月租-48": {
+          "current": 1182.19,
+          "previous": 1087.9,
+          "change": 94.2962
+        },
+        "官网尾款-48": {
+          "current": 35062.0,
+          "previous": 29840.0,
+          "change": 5222.0
+        },
+        "租赁租金-48": {
+          "current": 1084.05,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.01686,
+          "previous": 0.016729,
+          "change": 0.0001
+        },
+        "官网尾款-36": {
+          "current": 39538.0,
+          "previous": 39538.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0499,
+          "previous": 0.0499,
+          "change": 0.0
+        },
+        "理论月租-36": {
+          "current": 1459.96,
+          "previous": 1457.51,
+          "change": 2.4514
+        },
+        "Leasing factor-48": {
+          "current": 0.014532,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1116.6,
+          "previous": 1021.0,
+          "change": 95.6
+        },
+        "对客定价-48": {
+          "current": 0.0599,
+          "previous": 0.0599,
+          "change": 0.0
+        },
+        "贴息成本-分期-36": {
+          "current": 7278.74,
+          "previous": 7223.97,
+          "change": 54.7665
+        },
+        "贴息成本-租赁-48": {
+          "current": 4261.63,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-租赁-36": {
+          "current": 6745.55,
+          "previous": 6990.41,
+          "change": -244.8575
+        },
+        "分期月供-36": {
+          "current": 1241.81,
+          "previous": 1241.0,
+          "change": 0.81
+        },
+        "租赁租金-36": {
+          "current": 1257.79,
+          "previous": 1248.0,
+          "change": 9.79
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "宝马",
+      "model": "i5",
+      "version": "M60 xDrive Limousine",
+      "level": "高配",
+      "changes": {
+        "贴息成本-分期-48": {
+          "current": 2505.93,
+          "previous": null,
+          "change": null
+        },
+        "理论月租-48": {
+          "current": 1576.42,
+          "previous": null,
+          "change": null
+        },
+        "官网尾款-48": {
+          "current": 46092.0,
+          "previous": 39078.0,
+          "change": 7014.0
+        },
+        "租赁租金-48": {
+          "current": 1474.61,
+          "previous": null,
+          "change": null
+        },
+        "Leasing factor-36": {
+          "current": 0.017117,
+          "previous": 0.016992,
+          "change": 0.0001
+        },
+        "官网尾款-36": {
+          "current": 52104.0,
+          "previous": 52104.0,
+          "change": 0.0
+        },
+        "对客定价-36": {
+          "current": 0.0499,
+          "previous": 0.0499,
+          "change": 0.0
+        },
+        "Leasing factor-48": {
+          "current": 0.014717,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-48": {
+          "current": 1518.71,
+          "previous": 1386.0,
+          "change": 132.71
+        },
+        "对客定价-48": {
+          "current": 0.0599,
+          "previous": 0.0599,
+          "change": 0.0
+        },
+        "贴息成本-租赁-48": {
+          "current": 4420.88,
+          "previous": null,
+          "change": null
+        },
+        "分期月供-36": {
+          "current": 1694.55,
+          "previous": 1694.0,
+          "change": 0.55
+        },
+        "租赁租金-36": {
+          "current": 1715.08,
+          "previous": 1702.57,
+          "change": 12.51
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "Lotus",
+      "model": "Emeya",
+      "version": "600 sport SE",
+      "level": "低配",
+      "changes": {},
+      "has_key_change": false
+    }
+  ]
+}

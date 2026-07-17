@@ -1,0 +1,379 @@
+{
+  "comp_su7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "LongRange RWD",
+      "level": "低配",
+      "current": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1174.0,
+        "官网尾款（36）": 25736.0,
+        "贴息成本-分期（36个月）": -886.0,
+        "租赁租金-36个月/20kkm": 1183.0,
+        "贴息成本-租赁": -1186.0,
+        "Leasing factor": 1.99
+      },
+      "previous": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1174.0,
+        "官网尾款（36）": 25736.0,
+        "贴息成本-分期（36个月）": -927.0,
+        "租赁租金-36个月/20kkm": 1183.0,
+        "贴息成本-租赁": -1227.0,
+        "Leasing factor": 1.99
+      },
+      "changes": {
+        "对客定价": {
+          "current": 5.85,
+          "previous": 5.85,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1174.0,
+          "previous": 1174.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 25736.0,
+          "previous": 25736.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -886.0,
+          "previous": -927.0,
+          "change": 41.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1183.0,
+          "previous": 1183.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": -1186.0,
+          "previous": -1227.0,
+          "change": 41.0
+        },
+        "Leasing factor": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "特斯拉",
+      "model": "Model 3",
+      "version": "AWD Performance",
+      "level": "高配",
+      "current": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1174.0,
+        "官网尾款（36）": 25736.0,
+        "贴息成本-分期（36个月）": -886.0,
+        "租赁租金-36个月/20kkm": 1183.0,
+        "贴息成本-租赁": -1186.0,
+        "Leasing factor": 1.99
+      },
+      "previous": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1174.0,
+        "官网尾款（36）": 25736.0,
+        "贴息成本-分期（36个月）": -927.0,
+        "租赁租金-36个月/20kkm": 1183.0,
+        "贴息成本-租赁": -1227.0,
+        "Leasing factor": 1.99
+      },
+      "changes": {
+        "对客定价": {
+          "current": 5.85,
+          "previous": 5.85,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1174.0,
+          "previous": 1174.0,
+          "change": 0.0
+        },
+        "官网尾款（36）": {
+          "current": 25736.0,
+          "previous": 25736.0,
+          "change": 0.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -886.0,
+          "previous": -927.0,
+          "change": 41.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1183.0,
+          "previous": 1183.0,
+          "change": 0.0
+        },
+        "贴息成本-租赁": {
+          "current": -1186.0,
+          "previous": -1227.0,
+          "change": 41.0
+        },
+        "Leasing factor": {
+          "current": 1.99,
+          "previous": 1.99,
+          "change": 0.0
+        }
+      },
+      "has_key_change": false
+    },
+    {
+      "brand": "奔驰",
+      "model": "CLA",
+      "version": "250+ mit EQ Technologie Edition",
+      "level": "低配",
+      "current": {
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1053.0,
+        "官网尾款（36）": 33783.39,
+        "贴息成本-分期（36个月）": 5998.0,
+        "租赁租金-36个月/20kkm": 992.32,
+        "贴息成本-租赁": 8038.0,
+        "Leasing factor": 1.51
+      },
+      "previous": {
+        "对客定价": 3.99,
+        "分期月供-36个月/20kkm": 1157.0,
+        "官网尾款（36）": 31429.63,
+        "贴息成本-分期（36个月）": 2502.0,
+        "租赁租金-36个月/20kkm": 978.12,
+        "贴息成本-租赁": 8471.0,
+        "Leasing factor": 1.49
+      },
+      "changes": {
+        "对客定价": {
+          "current": 3.99,
+          "previous": 3.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1053.0,
+          "previous": 1157.0,
+          "change": -104.0
+        },
+        "官网尾款（36）": {
+          "current": 33783.39,
+          "previous": 31429.63,
+          "change": 2353.76
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 5998.0,
+          "previous": 2502.0,
+          "change": 3496.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 992.32,
+          "previous": 978.12,
+          "change": 14.2
+        },
+        "贴息成本-租赁": {
+          "current": 8038.0,
+          "previous": 8471.0,
+          "change": -433.0
+        },
+        "Leasing factor": {
+          "current": 1.51,
+          "previous": 1.49,
+          "change": 0.02
+        }
+      },
+      "has_key_change": true
+    }
+  ],
+  "comp_yu7": [
+    {
+      "brand": "特斯拉",
+      "model": "Model Y",
+      "version": "LongRange AWD",
+      "level": "低配",
+      "current": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1229.0,
+        "官网尾款（36）": 28975.0,
+        "贴息成本-分期（36个月）": -797.0,
+        "租赁租金-36个月/20kkm": 1240.0,
+        "贴息成本-租赁": -1164.0,
+        "Leasing factor": 1.94
+      },
+      "previous": {
+        "对客定价": 5.85,
+        "分期月供-36个月/20kkm": 1213.0,
+        "官网尾款（36）": 29605.0,
+        "贴息成本-分期（36个月）": 23.0,
+        "租赁租金-36个月/20kkm": 1224.0,
+        "贴息成本-租赁": -344.0,
+        "Leasing factor": 1.91
+      },
+      "changes": {
+        "对客定价": {
+          "current": 5.85,
+          "previous": 5.85,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 1229.0,
+          "previous": 1213.0,
+          "change": 16.0
+        },
+        "官网尾款（36）": {
+          "current": 28975.0,
+          "previous": 29605.0,
+          "change": -630.0
+        },
+        "贴息成本-分期（36个月）": {
+          "current": -797.0,
+          "previous": 23.0,
+          "change": -820.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1240.0,
+          "previous": 1224.0,
+          "change": 16.0
+        },
+        "贴息成本-租赁": {
+          "current": -1164.0,
+          "previous": -344.0,
+          "change": -820.0
+        },
+        "Leasing factor": {
+          "current": 1.94,
+          "previous": 1.91,
+          "change": 0.03
+        }
+      },
+      "has_key_change": true
+    }
+  ],
+  "comp_ultra": [
+    {
+      "brand": "奥迪",
+      "model": "e-tron GT",
+      "version": "S",
+      "level": "低配",
+      "current": {
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2156.0,
+        "官网尾款（36）": 81261.6,
+        "贴息成本-分期（36个月）": 31958.0,
+        "租赁租金-36个月/20kkm": 2419.0,
+        "贴息成本-租赁": 23193.0,
+        "Leasing factor": 2.0
+      },
+      "previous": {
+        "对客定价": 4.6,
+        "分期月供-36个月/20kkm": 2474.0,
+        "贴息成本-分期（36个月）": 21153.0,
+        "租赁租金-36个月/20kkm": 2342.0,
+        "贴息成本-租赁": 25558.0,
+        "Leasing factor": 2.0
+      },
+      "changes": {
+        "对客定价": {
+          "current": 4.6,
+          "previous": 4.6,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2156.0,
+          "previous": 2474.0,
+          "change": -318.0
+        },
+        "官网尾款（36）": {
+          "current": 81261.6,
+          "previous": null,
+          "change": null
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 31958.0,
+          "previous": 21153.0,
+          "change": 10805.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 2419.0,
+          "previous": 2342.0,
+          "change": 77.0
+        },
+        "贴息成本-租赁": {
+          "current": 23193.0,
+          "previous": 25558.0,
+          "change": -2365.0
+        },
+        "Leasing factor": {
+          "current": 2.0,
+          "previous": 2.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    },
+    {
+      "brand": "奔驰",
+      "model": "EQE",
+      "version": "AMG EQE 53 4MATIC+",
+      "level": null,
+      "current": {
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 2294.0,
+        "官网尾款（36）": 35536.53,
+        "贴息成本-分期（36个月）": 9.0,
+        "租赁租金-36个月/20kkm": 1573.3,
+        "贴息成本-租赁": 24054.0,
+        "Leasing factor": 1.0
+      },
+      "previous": {
+        "对客定价": 4.99,
+        "分期月供-36个月/20kkm": 2291.0,
+        "官网尾款（36）": 35647.0,
+        "贴息成本-分期（36个月）": 108.0,
+        "租赁租金-36个月/20kkm": 1571.0,
+        "贴息成本-租赁": 24131.0,
+        "Leasing factor": 1.0
+      },
+      "changes": {
+        "对客定价": {
+          "current": 4.99,
+          "previous": 4.99,
+          "change": 0.0
+        },
+        "分期月供-36个月/20kkm": {
+          "current": 2294.0,
+          "previous": 2291.0,
+          "change": 3.0
+        },
+        "官网尾款（36）": {
+          "current": 35536.53,
+          "previous": 35647.0,
+          "change": -110.47
+        },
+        "贴息成本-分期（36个月）": {
+          "current": 9.0,
+          "previous": 108.0,
+          "change": -99.0
+        },
+        "租赁租金-36个月/20kkm": {
+          "current": 1573.3,
+          "previous": 1571.0,
+          "change": 2.3
+        },
+        "贴息成本-租赁": {
+          "current": 24054.0,
+          "previous": 24131.0,
+          "change": -77.0
+        },
+        "Leasing factor": {
+          "current": 1.0,
+          "previous": 1.0,
+          "change": 0.0
+        }
+      },
+      "has_key_change": true
+    }
+  ]
+}
