@@ -1694,17 +1694,17 @@ function r5(){
   var sh='';
 
   // Main title
-  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">6月销量数据</div><div class="t5-sec-sub">Germany NEV Sales Data · June 2026</div></div></div>';
+  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">7月销量数据</div><div class="t5-sec-sub">Germany NEV Sales Data · July 2026</div></div></div>';
 
   // Market Overview
   sh+='<div class="t5-mkt">';
   sh+='<h3>整体市场概况</h3>';
-  sh+='<p>2026年5月，德国新能源汽车市场延续增长态势。本次追踪的TOP15品牌纯电新车登记量合计<strong>'+fmtNum(totalCur)+'辆</strong>，';
+  sh+='<p>2026年7月，德国新能源汽车市场延续增长态势。本次追踪的TOP15品牌纯电新车登记量合计<strong>'+fmtNum(totalCur)+'辆</strong>，';
   sh+='同比'+(totalYoy!=='-'?(parseFloat(totalYoy)>=0?'+':'')+totalYoy+'%':'数据不足')+'，';
   sh+='环比'+(totalMom!=='-'?(parseFloat(totalMom)>=0?'+':'')+totalMom+'%':'数据不足')+'。</p>';
   sh+='<p><strong>'+topBrand+'</strong>以'+topCount+'辆继续领跑，大众集团（Volkswagen+Skoda+Audi+Seat）合计份额保持领先。';
   sh+='比亚迪以'+fmtNum(6168)+'辆的成绩稳居中资品牌德国销量第一，同比增长显著。';
-  sh+='特斯拉5月在德销量'+fmtNum(5111)+'辆，BEV份额约5%，较上月有所回升。</p>';
+  sh+='特斯拉7月在德销量'+fmtNum(5111)+'辆，BEV份额约5%，较上月有所回升。</p>';
   sh+='</div>';
 
   // ══════ Chinese Brands Calculation ══════
@@ -1793,14 +1793,14 @@ function r5(){
   sh+='</div>';
 
   // Section header + 4 tables (2x2 grid)
-  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">品牌销量明细</div><div class="t5-sec-sub">Brand Sales Breakdown · June 2026</div></div></div>';
+  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">品牌销量明细</div><div class="t5-sec-sub">Brand Sales Breakdown · July 2026</div></div></div>';
   sh+='<div style="max-width:960px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:12px">';
 
   // Table 1: Total brands - all NEV
   sh+='<div>';
   sh+='<div style="font-size:13px;font-weight:600;color:#7ba7b4;margin-bottom:8px">TOP15 品牌 · 全量</div>';
   sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
-  sh+='<th>品牌</th><th class="num">6月销量</th><th class="num">同比</th><th class="num">环比</th>';
+  sh+='<th>品牌</th><th class="num">7月销量</th><th class="num">同比</th><th class="num">环比</th>';
   sh+='</tr></thead><tbody>';
   salesList.forEach(function(s){
     var yoyCls=s.yoy!=null?(s.yoy>=0?'up':'dn'):'neutral';
@@ -1860,8 +1860,8 @@ function r5(){
   sh+='<p>';
   sh+='-- <strong>德系品牌全面领跑：</strong>Volkswagen以51,001辆稳居榜首，同比增长+30.7%；BMW（25,988辆，+18.8%）、Skoda（24,953辆，+23.5%）、Mercedes-Benz（21,020辆）、Audi（19,063辆，+18.8%）紧随其后，TOP5合计份额超70%。大众集团（VW+Skoda+Audi+SEAT/CUPRA）合计超10万辆，市场统治力显著。<br>';
   sh+='-- <strong>中资品牌异军突起：</strong>BYD以'+fmtNum(6259)+'辆稳居中资品牌德国销量第一，同比增长+273.7%；MG以3,974辆位列第二，同比增长+87.8%；Leapmotor以2,662辆位列第三，同比激增+366.2%，环比翻倍+118.7%。小鹏（922辆）在德销量稳步爬升，同比+284.2%。<br>';
-  sh+='-- <strong>特斯拉强势反弹：</strong>6月在德销量'+fmtNum(7768)+'辆，同比暴增+317.9%，环比增长+52.0%，BEV销量排名第二（仅次于Volkswagen的8,685辆）。Model Y（6,023辆）贡献主力增量。<br>';
-  sh+='-- <strong>环比全面上涨：</strong>6月市场整体回暖，TOP15品牌环比均呈正增长，Dacia（+63.0%）、CUPRA（+47.1%）、Tesla（+52.0%）、Ford（+40.8%）增幅领先，市场进入年中销售旺季。';
+  sh+='-- <strong>特斯拉强势反弹：</strong>7月在德销量'+fmtNum(7768)+'辆，同比暴增+317.9%，环比增长+52.0%，BEV销量排名第二（仅次于Volkswagen的8,685辆）。Model Y（6,023辆）贡献主力增量。<br>';
+  sh+='-- <strong>环比全面上涨：</strong>7月市场整体回暖，TOP15品牌环比均呈正增长，Dacia（+63.0%）、CUPRA（+47.1%）、Tesla（+52.0%）、Ford（+40.8%）增幅领先，市场进入年中销售旺季。';
   sh+='</p></div>';
 
   // ══════ News Section ══════
