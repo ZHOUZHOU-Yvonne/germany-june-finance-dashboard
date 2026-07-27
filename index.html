@@ -1409,7 +1409,7 @@ function r5(){
   var mDown=maxDown.metric?maxDown.metric.replace(/-.*/,'').replace('（inc. VAT）',''):'-';
 
   // KPI computation - sales
-  var curMonth='2026-06',prevYear='2025-04';
+  var curMonth='2026-06',prevYear='2025-06';
   var salesByMake={};
   (D.sales||[]).forEach(function(s){
     var cur=parseInt((s.sales||{})[curMonth])||0;
@@ -1444,7 +1444,7 @@ function r5(){
   // 1. Highest sales: brand in label, number as hero
   var salesDelta=salesByMake[topSales.make];
   var salesYoy=salesDelta&&salesDelta.py>0?((salesDelta.cur-salesDelta.py)/salesDelta.py*100).toFixed(1):null;
-  kh+='<div class="t5-kpi"><div class="t5-kpi-lbl">'+topSales.make+' 5月销量最高</div>';
+  kh+='<div class="t5-kpi"><div class="t5-kpi-lbl">'+topSales.make+' 6月销量最高</div>';
   kh+='<div class="t5-kpi-val">'+fmtNum(topSales.cur)+'<span class="unit"> 辆</span></div>';
   kh+='<div class="t5-kpi-delta'+(salesYoy&&salesYoy<0?' neg':'')+'">'+(salesYoy?'同比 '+(salesYoy>=0?'+':'')+salesYoy+'%':'')+'</div></div>';
   // 2. Fastest growth: growth % as hero
