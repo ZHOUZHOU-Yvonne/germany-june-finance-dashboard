@@ -229,7 +229,7 @@ tr:hover{background:#1e213044}
 .t5-news-title .badge{font-size:10px;padding:2px 8px;border-radius:10px;font-weight:600;background:rgba(92,204,245,.1);color:var(--sky-blue,#3ab5e8)}
 .t5-news-card p{font-size:13px;color:var(--text-secondary,#8fa4c0);line-height:1.7}
 .t5-news-card p strong{color:var(--text-primary,#e8eef8)}
-.t5-news-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px;max-width:960px;margin-left:auto;margin-right:auto}
+.t5-news-grid{display:flex;flex-direction:column;gap:16px;margin-top:12px;max-width:960px;margin-left:auto;margin-right:auto}
 
 @media(max-width:900px){.t5-kpi-row{grid-template-columns:repeat(2,1fr)}.t5-grid{grid-template-columns:1fr}.t5-mdl-cols{grid-template-columns:1fr}.t5-mdl-col:first-child{border-right:none;border-bottom:1px solid var(--border-card,#1e3050);padding-bottom:10px;margin-bottom:10px}}
 @media(max-width:1000px){.sales-side-by-side{flex-direction:column!important}.sales-side-by-side>div{min-width:100%!important}}
@@ -1638,7 +1638,7 @@ function getSheetForBrand(b){var m={'特斯拉':'SU7,YU7','奔驰':'SU7,YU7,Ultr
     '2026-08-W2': {
       title: '同业新闻 (8.8-8.14)',
       subtitle: 'Industry News · Week of August 8-14, 2026',
-      categories: ['欧盟监管政策','其他海外动态','国内动态'],
+      categories: ['欧盟监管政策','欧盟同业动态','其他海外动态'],
       items: [
         {cat:'欧盟监管政策',title:'英国奖励6500万英镑用于零排放汽车技术',tag:'海外监管政策',tagCls:'orange-top',
          summary:'8月11日，英国政府开始在DRIVE35计划下分配资金，已向汽车技术项目拨款近6500万英镑。最新奖项聚焦零排放汽车技术以及互联和自动驾驶移动技术的开发、商业化和制造。',
@@ -1664,10 +1664,81 @@ function getSheetForBrand(b){var m={'特斯拉':'SU7,YU7','奔驰':'SU7,YU7,Ultr
          summary:'8月6日，SpaceX与特斯拉联合宣布，名为Terafab的大型芯片制造中心将落户得克萨斯州的格赖姆斯县，项目首期投资额达168亿美元。Terafab项目旨在打造全球规模最大的芯片制造设施，工厂将集设计、制造、封装和测试于一体，最终要年产"1太瓦算力"，用于特斯拉自动驾驶系统、"擎天柱"人形机器人及太空数据中心等场景。',
          insight:'① 特斯拉通过垂直整合芯片供应链，强化其在自动驾驶和AI领域的核心竞争力，对中国车企的智能化战略形成直接挑战；② 168亿美元的投资规模表明特斯拉对自动驾驶技术的长期押注，可能加速全球自动驾驶技术竞赛；③ 对中国车企而言，需关注特斯拉在芯片领域的自研进展，评估其对智能驾驶竞争格局的影响。',
          source:'央视新闻, 2026.8.6'},
-        {cat:'国内动态',title:'上半年自主新能源乘用车海外市场销量份额24%',tag:'国内动态',tagCls:'blue-top',
+        {cat:'其他海外动态',title:'上半年自主新能源乘用车海外市场销量份额24%',tag:'其他海外动态',tagCls:'blue-top',
          summary:'8月9日，乘联分会负责人崔东树发文称，2026年1-6月，中国海外市场自主品牌销量246万辆，同比增长62%。同期，自主新能源乘用车海外市场销量份额24%，同比提升10个百分点，增长主要贡献是欧盟市场。',
          insight:'① 中国自主品牌新能源乘用车在海外市场的份额快速提升，表明中国新能源汽车的国际竞争力正在增强；② 欧盟市场成为增长主要贡献者，说明中国车企在欧洲市场的布局正在取得实质性成果；③ 24%的海外市场份额意味着中国新能源汽车已从"试水"阶段进入"规模化扩张"阶段。',
          source:'乘联分会, 2026.8.9'}
+      ]
+    },
+    '2026-08-W3': {
+      title: '同业新闻 (8.13-8.20)',
+      subtitle: 'Industry News · Week of August 13-20, 2026',
+      categories: ['欧盟监管政策','欧盟同业动态','其他海外动态'],
+      items: [
+        {cat:'欧盟监管政策',title:'欧盟《报废车辆法规》正式生效，设定再生材料强制配额',tag:'海外监管政策',tagCls:'orange-top',
+         summary:'欧盟《报废车辆法规》（ELV Regulation）于8月13日正式生效，首次对汽车行业设定具有法律约束力的再生材料配额：2032年起新车须含≥15%再生塑料，2036年升至≥25%；2033年起钢、铝再生含量将设定强制目标。法规还要求2031年中期起仅允许合规可上路车辆出口，防止报废车伪装二手车外流。制造商须提供零部件拆解说明并承担报废车辆回收的财务责任。欧洲每年约1000-1200万辆车辆报废，该法规旨在减少对外部供应商依赖，加强欧洲经济安全。',
+         insight:'① 欧盟通过立法形式强制要求再生材料使用比例，对中国汽车出口欧洲设置了新的合规门槛；② 中国车企需提前布局电池、塑料等零部件的再生材料供应链，确保2032年法规生效前达到要求；③ 法规还要求报废车辆回收的财务责任，这可能增加中国制造车辆在欧洲市场的全生命周期成本。',
+         source:'just-auto.com, 2026.8.13'},
+        {cat:'欧盟监管政策',title:'匈牙利对电动汽车充电实施功率限制',tag:'海外监管政策',tagCls:'orange-top',
+         summary:'匈牙利对充电基础设施施加电力限制，具体功率上限尚待确认。这一政策可能影响在匈牙利销售和使用的电动汽车充电体验，对于计划在匈牙利设厂或销售的中国车企而言需关注当地充电配套政策变化。',
+         insight:'① 匈牙利此举可能影响电动车充电便利性，对中国电动车在匈牙利市场的销售产生潜在影响；② 对于在匈牙利有产能布局的中国车企，需关注充电政策变化对产品定位和市场策略的影响；③ 电力限制政策可能促使车企推出更多支持快速充电的车型，以适应有限的充电功率。',
+         source:'electrive.com, 2026.8.17'},
+        {cat:'欧盟监管政策',title:'欧盟批准奔驰-宝马-赛力斯"Ionchi"合资公司',tag:'海外监管政策',tagCls:'orange-top',
+         summary:'欧盟反垄断机构正式批准奔驰、宝马与赛力斯（Seres）的合资项目"Ionchi"。这是欧盟对中国车企与欧洲豪华品牌合作的又一次有条件放行，体现了欧盟在维护竞争的同时允许中欧汽车企业深度合作的监管态度。对于即将出海的中国主机厂而言，与欧洲本土品牌成立合资公司仍是进入欧盟市场的可行路径之一。',
+         insight:'① 欧盟对中欧合资项目的批准表明，与欧洲本土品牌成立合资公司仍是进入欧盟市场的可行路径之一；② Ionchi合资公司的获批为中国车企提供了新的合作模式参考，可能引发更多类似的中欧合作项目；③ 对于计划出海的中国主机厂，可关注与欧洲传统豪华品牌的合作机会，借助其品牌影响力和渠道资源进入欧洲市场。',
+         source:'just-auto.com, 2026.8.15'},
+        {cat:'欧盟同业动态',title:'吉利宣布2028年起在沃尔沃欧洲工厂生产旗下车型',tag:'海外同业动态',tagCls:'',
+         summary:'吉利新任董事长安聪慧（8月18日接任李书福）在半年业绩发布会上宣布，沃尔沃欧洲工厂将成为"集团本地化战略的关键支柱"，2028年起将生产吉利旗下更高价位车型。潜在品牌包括极氪（Zeekr）和领克（Lynk & Co）。候选工厂包括瑞典哥德堡、比利时根特（已获比利时政府1.19亿欧元支持，明确允许代工其他品牌）和斯洛伐克科希策（2027年初投产）。此举正值沃尔沃Q2营收下滑17%、利润减半之际，代工生产可有效提升工厂利用率。此外，吉利还与福特合作，2028年起在西班牙瓦伦西亚工厂联合生产两款纯电动SUV。',
+         insight:'① 吉利通过沃尔沃欧洲工厂实现本地化生产，可规避欧盟关税壁垒并降低物流成本；② 2028年的时间节点表明中国车企正在为欧盟可能的贸易政策变化做长期准备；③ 极氪和领克品牌进入欧洲市场将丰富中国高端电动车在欧洲的产品矩阵。',
+         source:'electrive.com, 2026.8.18'},
+        {cat:'欧盟同业动态',title:'保时捷Macan升级22kW交流充电，全系涨价',tag:'海外产品发布',tagCls:'',
+         summary:'保时捷为2027款Macan升级充电能力：GTS和Turbo车型标配22kW车载充电器（此前最高11kW），入门版可选装。同时全系新增自适应巡航、自动泊车和25W无线充电等标配。德国市场新售价：Macan €82,200、Macan 4 €85,600、Macan 4S €92,200、Macan GTS €106,100、Macan Turbo €117,800，涨幅€1,000-€2,300不等。燃油版Macan已于2026年7月停产，现款为纯电车型。',
+         insight:'① 保时捷Macan升级充电能力表明欧洲传统豪华品牌正在加速电动化转型；② 涨价策略反映了欧洲车企在电动化投入与利润平衡上的压力；③ 对中国电动车品牌而言，保时捷的升级意味着在欧洲高端市场的竞争将更加激烈。',
+         source:'electrive.com, 2026.8.18'},
+        {cat:'欧盟同业动态',title:'Genesis GV90发布：657马力/123.5kWh电池/对开门设计',tag:'海外产品发布',tagCls:'',
+         summary:'现代旗下豪华品牌Genesis公布GV90旗舰SUV参数：搭载123.52kWh电池（115kWh可用），超越现代/起亚现有所有EV；双电机综合功率657hp/490kW；WLTP续航预估约580公里；车重约3,030kg，提供6座/7座布局。设计源自2024 Neolun概念车，采用后向对开门（coach doors）。韩国环境部文件显示该车已通过认证，欧洲定价尚未公布。',
+         insight:'① Genesis GV90的大电池和对开门设计体现了韩系豪华品牌在电动SUV市场的差异化竞争策略；② 123.5kWh的电池容量超越现代/起亚现有所有EV，表明韩国车企在电池技术上的持续投入；③ 对中国高端电动车品牌而言，韩系豪华品牌的崛起增加了欧洲市场的竞争维度。',
+         source:'carscoops.com, 2026.8.20'},
+        {cat:'欧盟同业动态',title:'现代Ioniq 3土耳其工厂投产，降低欧洲生产成本',tag:'海外产品发布',tagCls:'',
+         summary:'现代汽车在其土耳其工厂正式启动Ioniq 3的生产，旨在降低面向欧洲市场的生产成本，增强价格竞争力。土耳其正逐渐成为欧洲新能源汽车生产的新基地，值得关注。',
+         insight:'① 现代选择土耳其作为欧洲生产基地，体现了车企在成本与市场之间的战略权衡；② 土耳其工厂的投产可能改变欧洲电动车市场的成本结构，对中国车企的欧洲定价策略形成挑战；③ 对于考虑在欧洲建厂的中国车企，土耳其作为潜在生产基地值得关注。',
+         source:'electrive.com, 2026.8.18'},
+        {cat:'欧盟同业动态',title:'Lucid Gravity欧洲定价€94,900起，调整配置层级',tag:'海外产品发布',tagCls:'',
+         summary:'美国高端电动车品牌Lucid对其Gravity SUV进行配置调整，新增层级并公布欧洲市场定价€94,900起，正式进入欧洲高端电动SUV市场，与保时捷Macan、宝马iX等车型形成直接竞争。',
+         insight:'① Lucid进入欧洲市场表明美国电动车品牌正在加速全球化布局；② €94,900的定价直接对标保时捷Macan和宝马iX，将加剧欧洲高端电动SUV市场的竞争；③ 对中国高端电动车品牌而言，Lucid的入局意味着需要在产品力和品牌力上持续提升。',
+         source:'electrive.com, 2026.8.18'},
+        {cat:'欧盟同业动态',title:'上汽西班牙建厂获批',tag:'海外同业动态',tagCls:'',
+         summary:'近日，西班牙国防部发言人表示，国防部将批准中国国有汽车制造商上汽集团在加利西亚地区建设汽车工厂的计划。上汽集团是越来越多与西班牙签署建厂协议的中国汽车和电池制造商之一，其中一些项目为此前关闭的汽车工厂所在地区提供了新的发展契机。该工厂将为MG品牌生产每年多达12万辆汽车，预计将于2027年开工建设，并于2028年投入运营。',
+         insight:'① 上汽西班牙建厂获批标志着中国车企在欧洲本地化生产取得实质性进展；② 每年12万辆的产能规模表明上汽对欧洲市场的长期投入和信心；③ 对其他中国车企而言，上汽的成功案例可能引发更多中国品牌在欧洲建厂的浪潮。',
+         source:'spanish ministry of defence, 2026.8.20'},
+        {cat:'欧盟同业动态',title:'上半年自主新能源乘用车海外销量份额达24%，欧盟市场是主要增长贡献',tag:'海外同业动态',tagCls:'',
+         summary:'乘联分会负责人崔东树发文称，2026年1-6月中国海外市场自主品牌销量246万辆，同比增长62%。同期自主新能源乘用车海外市场销量份额达24%，同比提升10个百分点，增长主要贡献来自欧盟市场。这表明中国新能源汽车出海正加速推进，欧盟是核心增量市场。',
+         insight:'① 中国新能源汽车在海外市场的份额快速提升，表明中国品牌的国际竞争力正在增强；② 欧盟市场成为增长主要贡献者，说明中国车企在欧洲市场的布局正在取得实质性成果；③ 24%的海外市场份额意味着中国新能源汽车已从"试水"阶段进入"规模化扩张"阶段。',
+         source:'electrive.com, 2026.8.19'},
+        {cat:'其他海外动态',title:'奇瑞宣布在英国设立研发中心，深化欧洲本地化布局',tag:'海外同业动态',tagCls:'',
+         summary:'奇瑞汽车宣布将在英国设立研发中心，进一步深化其在欧洲市场的本地化布局。设立研发中心是中国车企进入欧洲市场的"敲门砖"，有助于建立技术信任、进行产品本地化适配，并为后续市场销售奠定基础。',
+         insight:'① 设立研发中心是中国车企进入欧洲市场的"敲门砖"，有助于建立技术信任、进行产品本地化适配；② 英国作为欧洲重要的汽车市场和技术中心，奇瑞的布局表明中国车企正在从"产品出口"向"技术本地化"升级；③ 研发中心的设立将为后续市场销售奠定基础，有助于提升品牌在欧洲市场的长期竞争力。',
+         source:'electrive.com, 2026.8.19'},
+        {cat:'其他海外动态',title:'腾势N8续航突破1000公里，搭载130kWh电池',tag:'海外产品发布',tagCls:'',
+         summary:'比亚迪旗下高端品牌腾势公布新一代N8电动SUV参数：搭载105.792kWh或130.15kWh电池，CLTC续航最高达1,003公里。动力方面，顶配版采用三电机布局，综合功率达890kW。充电方面搭载比亚迪闪充技术，10%-97%充电仅需约9分钟。车身长5.15米（标准版）/5.20米（长轴N8L），与BMW X7/奔驰GLS同级。国内售价约30万元人民币起（≈€38,450），欧洲售价尚未公布，腾势已在德国开设首家直营店。2026年7月腾势全球销量19,196辆，同比增长68.8%。',
+         insight:'① 腾势N8的1000公里续航能力标志着中国电动车在续航技术上的重大突破，对欧洲豪华SUV市场形成直接竞争压力；② 9分钟的快充时间解决了电动车长途出行的痛点，提升了产品在欧洲市场的实用性；③ 腾势已在德国开设首家直营店，表明中国高端电动车品牌正在加速欧洲市场布局。',
+         source:'electrive.com, 2026.8.19'},
+        {cat:'其他海外动态',title:'岚图Passion S完成"倒挂隧道"特技展示',tag:'海外产品发布',tagCls:'',
+         summary:'岚图汽车旗下Passion S在欧洲完成"倒挂隧道"特技展示，通过创意营销提升品牌在欧洲市场的知名度。中国新能源品牌正通过差异化营销手段加速进入欧洲消费者视野。',
+         insight:'① 岚图通过极限特技展示产品性能，体现了中国品牌在欧洲营销策略上的创新尝试；② 这种高曝光度的营销活动有助于快速提升品牌在欧洲市场的认知度；③ 对其他中国出海品牌而言，差异化营销是突破欧洲市场认知壁垒的有效手段。',
+         source:'electrive.com, 2026.8.19'},
+        {cat:'其他海外动态',title:'Waymo为采购中国电动车支付127.5%关税，累计进口3200+辆极氪',tag:'海外同业动态',tagCls:'',
+         summary:'谷歌旗下自动驾驶公司Waymo持续大量进口极氪Ojai（中国名CM1e）电动面包车作为下一代无人出租车平台。尽管美国对中国电动车征收127.5%关税，Waymo自2024年以来已累计进口3,200+辆，其中2026年到港2,600+辆。单车成本拆解：裸价~ 86,500 → 加装自动驾驶套件~ 100,000，但仍远低于现有捷豹I-Pace车队$200,000+的成本。讽刺的是，普通消费者无法购买中国电动车，但Google子公司却大量采购。',
+         insight:'① Waymo大量采购中国电动车表明，即使在高关税环境下，中国电动车仍具有成本竞争力；② 这一现象讽刺地说明：普通消费者无法购买中国电动车，但科技巨头却大量采购用于自动驾驶业务；③ 对中国车企而言，B端市场（如自动驾驶公司）可能成为规避贸易壁垒的潜在渠道。',
+         source:'carscoops.com, 2026.8.20'},
+        {cat:'其他海外动态',title:'美国和加拿大的贸易谈判因汽车关税问题陷入僵局',tag:'海外同业动态',tagCls:'',
+         summary:'据报道，美国和加拿大的贸易谈判因汽车关税问题陷入僵局。主要分歧在于，加方希望汽车关税税率降至10%，但美国坚持最低税率为15%。',
+         insight:'① 美加贸易谈判僵局可能影响北美汽车供应链的稳定性，对中国在北美的汽车出口产生间接影响；② 15%的最低税率要求表明美国在汽车贸易政策上的强硬立场；③ 对于在北美市场有布局的中国车企，需关注美加贸易政策变化对供应链和市场策略的影响。',
+         source:'reuters.com, 2026.8.19'},
+        {cat:'其他海外动态',title:'Stellantis集团考虑出售加拿大工厂',tag:'海外同业动态',tagCls:'',
+         summary:'据路透社报道，近日，加拿大汽车工人工会表示，已收到Stellantis集团通知，受美国贸易关税影响，该公司正考虑关闭并出售其位于安大略省布兰普顿的整车工厂。布兰普顿工厂2024年停产进行产线改造，在美国总统特朗普对加拿大商品加征关税后，Stellantis于2025年叫停改造工程，并将Jeep Compass后续生产转移至美国伊利诺伊州的工厂。',
+         insight:'① Stellantis出售加拿大工厂反映了美国关税政策对北美汽车制造业的深远影响；② 这一案例表明，贸易政策变化可能快速改变车企的全球产能布局；③ 对于考虑在北美建厂的中国车企，需谨慎评估贸易政策风险和供应链稳定性。',
+         source:'reuters.com, 2026.8.19'}
       ]
     }
   };
@@ -2115,6 +2186,42 @@ function r5(){
   chineseDetail = chineseDetail.sort(function(a,b){return b.cur-a.cur}).slice(0,15);
   var chineseDetailBev=chineseDetail.slice().sort(function(a,b){return b.bevCur-a.bevCur});
 
+  // ════ July Full Sales Data (from KDA Excel) ════
+  var julyByMake={"BMW":{cur:24644,yoy:0.5},"Skoda":{cur:23331,yoy:-0.2},"Audi":{cur:17432,yoy:1.5},"SEAT":{cur:13958,yoy:4.9},"Opel":{cur:11920,yoy:-18.1},"Ford":{cur:9567,yoy:-17.0},"Hyundai":{cur:8824,yoy:-6.7},"Renault":{cur:6708,yoy:32.3},"Kia":{cur:6613,yoy:11.4},"Dacia":{cur:6414,yoy:-11.2},"Fiat":{cur:6110,yoy:13.6},"Toyota":{cur:6054,yoy:-25.0},"Peugeot":{cur:5464,yoy:22.0},"BYD":{cur:5240,yoy:365.4},"Citroen":{cur:4684,yoy:23.1},"MINI":{cur:4675,yoy:19.3},"Volvo":{cur:4517,yoy:-14.2},"MG":{cur:3698,yoy:86.2},"Mazda":{cur:2841,yoy:13.1},"Leapmotor":{cur:2736,yoy:328.8},"Porsche":{cur:2710,yoy:-4.5},"Nissan":{cur:2492,yoy:-7.8},"Suzuki":{cur:1504,yoy:-22.5},"Xpeng":{cur:1253,yoy:371.1},"Land Rover":{cur:1154,yoy:-19.4},"Jeep":{cur:949,yoy:-19.0},"smart":{cur:851,yoy:106.6},"Mitsubishi":{cur:783,yoy:-25.4},"Polestar":{cur:641,yoy:-4.3},"Honda":{cur:575,yoy:-27.2},"Geely":{cur:479,yoy:null},"Subaru":{cur:420,yoy:26.1},"Tesla":{cur:367,yoy:-66.9},"Alfa Romeo":{cur:329,yoy:-53.1},"Lexus":{cur:260,yoy:-37.3},"DS":{cur:249,yoy:-2.0},"KGM":{cur:246,yoy:-17.2},"MAN":{cur:157,yoy:1.9},"Ferrari":{cur:146,yoy:-8.8},"Alpine":{cur:137,yoy:63.1},"Lamborghini":{cur:136,yoy:16.2},"Zeekr":{cur:133,yoy:null},"Great Wall":{cur:110,yoy:-49.1},"LYNK & CO":{cur:110,yoy:null},"Iveco":{cur:82,yoy:7.9},"Lotus":{cur:52,yoy:40.5},"Jaecoo":{cur:46,yoy:null},"Aston Martin":{cur:39,yoy:8.3},"Bentley":{cur:39,yoy:-37.1},"Omoda":{cur:37,yoy:null},"TOGG":{cur:36,yoy:null},"INEOS":{cur:34,yoy:-63.8},"Rolls Royce":{cur:22,yoy:-21.4},"Maserati":{cur:18,yoy:-84.9},"Deepal":{cur:15,yoy:null},"Dongfeng":{cur:6,yoy:null},"VinFast":{cur:5,yoy:null},"Cadillac":{cur:3,yoy:null},"Fisker":{cur:3,yoy:null},"NIO":{cur:3,yoy:-93.6},"JAC":{cur:2,yoy:null},"Chery":{cur:1,yoy:null},"Maxus":{cur:1,yoy:null},"DAF Trucks":{cur:0,yoy:null},"Lada":{cur:0,yoy:null}};
+  // Compute June totals from D.sales for MoM calculation
+  var juneByMake={};
+  (D.sales||[]).forEach(function(s){
+    var june=parseInt((s.sales||{})['2026-06'])||0;
+    if(june>0){
+      if(!juneByMake[s.make])juneByMake[s.make]=0;
+      juneByMake[s.make]+=june;
+    }
+  });
+  // Build July sales list (TOP15 by July total)
+  var salesListJuly=Object.keys(julyByMake).map(function(m){
+    var j=julyByMake[m];
+    var june=juneByMake[m]||0;
+    return{make:m,cur:j.cur,
+      yoy:j.yoy,
+      mom:june>0?((j.cur-june)/june*100):null};
+  }).sort(function(a,b){return b.cur-a.cur}).slice(0,15);
+  // Chinese brands for July
+  var chineseDetailJuly=[];
+  chineseBrands.forEach(function(brand){
+    var j=julyByMake[brand];
+    if(j&&j.cur>0){
+      var june=juneByMake[brand]||0;
+      chineseDetailJuly.push({
+        make:brand,
+        cur:j.cur,
+        yoy:j.yoy,
+        mom:june>0?((j.cur-june)/june*100):null
+      });
+    }
+  });
+  chineseDetailJuly=chineseDetailJuly.sort(function(a,b){return b.cur-a.cur}).slice(0,15);
+
+
   var chineseYoy=chineseSales.py>0?((chineseSales.cur-chineseSales.py)/chineseSales.py*100).toFixed(1):'-';
   var chineseMom=chineseSales.prv>0?((chineseSales.cur-chineseSales.prv)/chineseSales.prv*100).toFixed(1):'-';
 
@@ -2170,16 +2277,31 @@ function r5(){
   sh+='</div>';
 
   // Section header + 4 tables (2x2 grid)
-  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">品牌销量明细</div><div class="t5-sec-sub">Brand Sales Breakdown · June 2026</div></div></div>';
+  sh+='<div class="t5-sec-hdr" style="max-width:960px;margin:24px auto 12px"><div><div class="t5-sec-title">品牌销量明细</div><div class="t5-sec-sub">Brand Sales Breakdown · 全量7月 / BEV 6月</div></div></div>';
   sh+='<div style="max-width:960px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:12px">';
 
   // Table 1: Total brands - all NEV
   sh+='<div>';
-  sh+='<div style="font-size:13px;font-weight:600;color:#7ba7b4;margin-bottom:8px">TOP15 品牌 · 全量</div>';
+  sh+='<div style="font-size:13px;font-weight:600;color:#7ba7b4;margin-bottom:8px">TOP15 品牌 · 全量 <span style="font-size:11px;color:#556;font-weight:400;margin-left:6px">7月</span></div>';
   sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
-  sh+='<th>品牌</th><th class="num">6月销量</th><th class="num">同比</th><th class="num">环比</th>';
+  sh+='<th>品牌</th><th class="num">7月销量</th><th class="num">同比</th><th class="num">环比</th>';
   sh+='</tr></thead><tbody>';
-  salesList.forEach(function(s){
+  salesListJuly.forEach(function(s){
+    var yoyCls=s.yoy!=null?(s.yoy>=0?'up':'dn'):'neutral';
+    var momCls=s.mom!=null?(s.mom>=0?'up':'dn'):'neutral';
+    var yoyStr=s.yoy!=null?(s.yoy>=0?'+':'')+s.yoy.toFixed(1)+'%':'-';
+    var momStr=s.mom!=null?(s.mom>=0?'+':'')+s.mom.toFixed(1)+'%':'-';
+    sh+='<tr><td><strong>'+s.make+'</strong></td><td class="num">'+fmtNum(s.cur)+'</td><td class="num '+yoyCls+'">'+yoyStr+'</td><td class="num '+momCls+'">'+momStr+'</td></tr>';
+  });
+  sh+='</tbody></table></div></div>';
+
+  // Table 3: Chinese brands - all NEV
+  sh+='<div>';
+  sh+='<div style="font-size:13px;font-weight:600;color:#ff6b6b;margin-bottom:8px">中资品牌 · 全量 <span style="font-size:11px;color:#556;font-weight:400;margin-left:6px">7月</span></div>';
+  sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
+  sh+='<th>品牌</th><th class="num">全量销量</th><th class="num">同比</th><th class="num">环比</th>';
+  sh+='</tr></thead><tbody>';
+  chineseDetailJuly.forEach(function(s){
     var yoyCls=s.yoy!=null?(s.yoy>=0?'up':'dn'):'neutral';
     var momCls=s.mom!=null?(s.mom>=0?'up':'dn'):'neutral';
     var yoyStr=s.yoy!=null?(s.yoy>=0?'+':'')+s.yoy.toFixed(1)+'%':'-';
@@ -2190,7 +2312,7 @@ function r5(){
 
   // Table 2: Total brands - BEV only
   sh+='<div>';
-  sh+='<div style="font-size:13px;font-weight:600;color:#7ba7b4;margin-bottom:8px">TOP15 品牌 · BEV</div>';
+  sh+='<div style="font-size:13px;font-weight:600;color:#7ba7b4;margin-bottom:8px">TOP15 品牌 · BEV <span style="font-size:11px;color:#556;font-weight:400;margin-left:6px">6月</span></div>';
   sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
   sh+='<th>品牌</th><th class="num">BEV销量</th><th class="num">同比</th><th class="num">环比</th>';
   sh+='</tr></thead><tbody>';
@@ -2201,24 +2323,9 @@ function r5(){
   });
   sh+='</tbody></table></div></div>';
 
-  // Table 3: Chinese brands - all NEV
-  sh+='<div>';
-  sh+='<div style="font-size:13px;font-weight:600;color:#ff6b6b;margin-bottom:8px">中资品牌 · 全量</div>';
-  sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
-  sh+='<th>品牌</th><th class="num">全量销量</th><th class="num">同比</th><th class="num">环比</th>';
-  sh+='</tr></thead><tbody>';
-  chineseDetail.forEach(function(s){
-    var yoyCls=s.yoy!=null?(s.yoy>=0?'up':'dn'):'neutral';
-    var momCls=s.mom!=null?(s.mom>=0?'up':'dn'):'neutral';
-    var yoyStr=s.yoy!=null?(s.yoy>=0?'+':'')+s.yoy.toFixed(1)+'%':'-';
-    var momStr=s.mom!=null?(s.mom>=0?'+':'')+s.mom.toFixed(1)+'%':'-';
-    sh+='<tr><td><strong>'+s.make+'</strong></td><td class="num">'+fmtNum(s.cur)+'</td><td class="num '+yoyCls+'">'+yoyStr+'</td><td class="num '+momCls+'">'+momStr+'</td></tr>';
-  });
-  sh+='</tbody></table></div></div>';
-
   // Table 4: Chinese brands - BEV only
   sh+='<div>';
-  sh+='<div style="font-size:13px;font-weight:600;color:#ff6b6b;margin-bottom:8px">中资品牌 · BEV</div>';
+  sh+='<div style="font-size:13px;font-weight:600;color:#ff6b6b;margin-bottom:8px">中资品牌 · BEV <span style="font-size:11px;color:#556;font-weight:400;margin-left:6px">6月</span></div>';
   sh+='<div class="t5-tbl-wrap"><table class="t5-tbl" style="width:100%"><thead><tr>';
   sh+='<th>品牌</th><th class="num">BEV销量</th><th class="num">同比</th><th class="num">环比</th>';
   sh+='</tr></thead><tbody>';
